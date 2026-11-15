@@ -5,10 +5,13 @@
 export const CATEGORY_PREFIX = 'Category:Photographs taken on ';
 
 // Words that don't help tell films apart.
-const STOP_WORDS = new Set(['professional', 'pro', 'film', 'eastman', 'classic', 'plus', 'super', 'the', 'of', 'and', 'edition', '35mm', 'mm']);
+const STOP_WORDS = new Set(['professional', 'pro', 'film', 'films', 'eastman', 'classic', 'plus', 'super', 'the', 'of', 'and', 'edition', '35mm', 'mm']);
 // Shop brand spellings → the spelling Commons usually uses.
 const ALIASES = { fujifilm: 'fuji', agfaphoto: 'agfa', 'ilfordphoto': 'ilford' };
 export const BRANDS = new Set(['kodak', 'ilford', 'fuji', 'kentmere', 'rollei', 'agfa', 'foma', 'lomography', 'harman', 'cinestill', 'adox', 'ferrania', 'polaroid']);
+// Words that describe a kind of film rather than a product, so a collection
+// like "color negative film" can't pass for "Lomography Color Negative 400".
+const GENERIC = new Set(['color', 'colour', 'negative', 'black', 'white', 'reversal', 'slide', 'expired', 'instant', 'sheet', 'unidentified', 'pan']);
 
 export function tokens(text) {
   return text
@@ -33,10 +36,14 @@ export function bestCategory(filmName, categoryTitles) {
   let bestScore = 0;
   for (const title of categoryTitles) {
     if (!title.startsWith(CATEGORY_PREFIX)) continue;
-    const cand = tokens(title.slice(CATEGORY_PREFIX.length));
+    // Ignore notes in brackets: "AgfaPhoto APX 400 (new emulsion)".
+    const cand = tokens(title.slice(CATEGORY_PREFIX.length).replace(/\([^)]*\)/g, ' '));
     if (cand.length === 0) continue;
     if (!cand.every((t) => film.has(t))) continue;
-    const specific = cand.filter((t) => !BRANDS.has(t) && !/^\d+$/.test(t));
+    const specific = cand.filter((t) => !BRANDS.has(t) && !GENERIC.has(t) && !/^\d+$/.test(t));
+    // "Fomapan films" is a whole family (100, 200, 400…): only use it if it names the same speed.
+    const filmIso = [...film].some((t) => /^\d+$/.test(t));
+    if (/\bfilms$/i.test(title) && filmIso && !cand.some((t) => /^\d+$/.test(t))) continue;
     // Brand + number only ("Fujifilm 200", "Kentmere 400") is fine when it covers
     // nearly the whole film name, so "Kodak 400" can't grab every Kodak 400 film.
     if (specific.length === 0 && !(cand.some((t) => /^\d+$/.test(t)) && film.size - cand.length <= 1 && cand.length >= 2)) continue;

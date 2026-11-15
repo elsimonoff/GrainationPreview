@@ -59,9 +59,13 @@ async function main() {
     cont = d.continue;
     await sleep(1500);
   }
-  if (categories.length < 20) throw new Error(`Only ${categories.length} categories found; not saving.`);
-  await fs.writeFile(OUT_FILE, JSON.stringify({ generatedAt: new Date().toISOString(), categories }, null, 1) + '\n');
-  console.log(`Saved ${categories.length} Commons categories.`);
+  // Commons also files photos by date ("Photographs taken on 2019-05-04") and
+  // weekday. Keep only names that could be films, so the file stays small.
+  const SKIP = /^Category:Photographs taken on (\d|(Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day$|New Year)/;
+  const films = categories.filter((c) => !SKIP.test(c));
+  if (films.length < 20) throw new Error(`Only ${films.length} film categories found; not saving.`);
+  await fs.writeFile(OUT_FILE, JSON.stringify({ generatedAt: new Date().toISOString(), categories: films }, null, 1) + '\n');
+  console.log(`Saved ${films.length} Commons film categories (of ${categories.length}).`);
 }
 
 main().catch((err) => {
