@@ -1,0 +1,8 @@
+{
+  "_help": "preferredCameras: photos taken with these cameras are shown first and marked with a star. The first is your main camera; the others are sister models with the same lens, used as back-up. Use [] to turn this off.",
+  "preferredCameras": ["Ricoh R1s", "Ricoh R1", "Ricoh R1e"],
+
+  "_flickr": "Wikimedia Commons has almost no Ricoh R1s photos, but Flickr has many. Paste a free Flickr API key below to include them (get one at https://www.flickr.com/services/apps/create/ and choose Non-Commercial). Set flickrCreativeCommonsOnly to true to show only photos the photographers released under Creative Commons.",
+  "flickrApiKey": "",
+  "flickrCreativeCommonsOnly": false
+}

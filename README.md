@@ -34,6 +34,28 @@ Variables) with a URL or email, and the hourly job uses it when it refreshes
 `data/commons-categories.json`. This file only makes film pages a little faster;
 the site works without it.
 
+## Your camera first (Ricoh R1s)
+
+Photos taken with the cameras in `data/settings.json` → `preferredCameras`
+are shown **first** on every film page, marked with ★. The film list gets a
+"★ Ricoh R1s" badge on films that have such photos, a **Has Ricoh R1s photos**
+filter, and a **My camera's photos first** sort.
+
+The list is `["Ricoh R1s", "Ricoh R1", "Ricoh R1e"]`: your R1s first, then its
+sister models (same 30 mm lens) as back-up. Remove those two if you only want the R1s.
+
+**Turn on Flickr for this to really work.** Wikimedia Commons has almost no
+photos taken with a Ricoh R1s; Flickr has plenty, tagged like `ricohr1s` + `kodakgold200`.
+
+1. Get a free key at <https://www.flickr.com/services/apps/create/> (choose **Non-Commercial**).
+2. Paste it into `data/settings.json` → `"flickrApiKey": "…"`.
+3. Optional: set `"flickrCreativeCommonsOnly": true` to show only photos the
+   photographers released under Creative Commons.
+
+The key is visible to anyone who views the site's files; that's normal for
+Flickr keys used in web pages (it only allows reading public photos).
+Every Flickr photo is shown with the photographer's name, license and a link back to it.
+
 ## Fixing a film's photos
 
 If a film shows the wrong photos, or none, edit `data/commons-overrides.json`:

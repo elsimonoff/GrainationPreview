@@ -3,7 +3,7 @@
 //   #/                → list of in-stock films
 //   #/film/<slug>     → one film, with sample photos and cameras
 
-import { findSource, loadPhotos, categoryUrl, cameraCategoryUrl, prettyCategory } from './commons.js';
+import { findSource, loadPhotos, categoryUrl, cameraCategoryUrl, prettyCategory, preferredPool, preferredPhotosFor, preferredRank, shotOnFilm } from './commons.js';
 
 const main = document.getElementById('main');
 const lightbox = document.getElementById('lightbox');
@@ -11,6 +11,7 @@ const lightbox = document.getElementById('lightbox');
 const state = {
   data: null,
   filters: loadFilters(),
+  pref: null, // { names, byFilm: Map(slug → { count, camera }) } once loaded
 };
 
 // ---------- helpers ----------
@@ -72,9 +73,9 @@ const CAMERA_ICON = `<svg class="cam-icon" viewBox="0 0 24 24" fill="none" strok
 
 function loadFilters() {
   try {
-    return { q: '', kind: 'all', iso: 'all', sort: 'name', ...JSON.parse(sessionStorage.getItem('filters') || '{}') };
+    return { q: '', kind: 'all', iso: 'all', sort: 'name', pref: false, ...JSON.parse(sessionStorage.getItem('filters') || '{}') };
   } catch {
-    return { q: '', kind: 'all', iso: 'all', sort: 'name' };
+    return { q: '', kind: 'all', iso: 'all', sort: 'name', pref: false };
   }
 }
 function saveFilters() {
@@ -116,6 +117,7 @@ function renderList() {
           <option value="price">Sort: Price, low to high</option>
           <option value="price-desc">Sort: Price, high to low</option>
           <option value="iso">Sort: ISO, slow to fast</option>
+          <option value="pref">Sort: My camera’s photos first</option>
         </select>
       </div>
       <div class="toolbar-row" role="group" aria-label="Film type">
@@ -133,6 +135,7 @@ function renderList() {
         <button class="chip" data-iso="all" aria-pressed="${state.filters.iso === 'all'}">Any ISO</button>
         ${ISO_BUCKETS.map((b) => `<button class="chip" data-iso="${b.id}" aria-pressed="${state.filters.iso === b.id}">${b.label}</button>`).join('')}
       </div>
+      <div class="toolbar-row" id="pref-row" role="group" aria-label="My camera" hidden></div>
     </section>
 
     <p class="result-count" id="count" aria-live="polite"></p>
@@ -168,6 +171,59 @@ function renderList() {
     }),
   );
   renderGrid();
+  loadPreferredForList();
+}
+
+// Finds which films have photos from your camera (data/settings.json) and
+// shows a ★ badge on them, plus a filter chip.
+async function loadPreferredForList() {
+  const row = main.querySelector('#pref-row');
+  const drawRow = () => {
+    if (!row || !row.isConnected) return;
+    const { names, byFilm, failed } = state.pref || {};
+    if (!names?.length && state.pref) return (row.hidden = true);
+    row.hidden = false;
+    const label = names?.[0] || 'your camera';
+    if (!state.pref) {
+      row.innerHTML = `<span class="toolbar-label">Camera</span><span class="pack">Looking for photos taken with your camera…</span>`;
+      return;
+    }
+    const n = byFilm.size;
+    row.innerHTML = `<span class="toolbar-label">Camera</span>${
+      n
+        ? `<button class="chip chip-pref" data-pref aria-pressed="${state.filters.pref}">★ Has ${esc(label)} photos<span class="count">${n}</span></button>`
+        : `<span class="pack">${failed ? `Couldn’t check for ${esc(label)} photos right now.` : `No ${esc(label)} photos on Wikimedia Commons for these films yet.`}</span>`
+    }`;
+    row.querySelector('[data-pref]')?.addEventListener('click', (e) => {
+      state.filters.pref = !state.filters.pref;
+      e.currentTarget.setAttribute('aria-pressed', state.filters.pref);
+      saveFilters();
+      renderGrid();
+    });
+  };
+  if (state.pref) return drawRow();
+  drawRow();
+  try {
+    const { names, photos } = await preferredPool();
+    const byFilm = new Map();
+    for (const f of state.data.films) {
+      let count = 0;
+      let best = Infinity;
+      for (const p of photos) {
+        if (!shotOnFilm(p, f.name)) continue;
+        const r = preferredRank({ ...p, cameras: [...p.cameras] }, names);
+        if (r < 0) continue;
+        count++;
+        best = Math.min(best, r);
+      }
+      if (count) byFilm.set(f.slug, { count, camera: names[best] });
+    }
+    state.pref = { names, byFilm };
+  } catch {
+    state.pref = { names: ['your camera'], byFilm: new Map(), failed: true };
+  }
+  drawRow();
+  if (main.querySelector('#grid')) renderGrid();
 }
 
 function renderGrid() {
@@ -176,6 +232,7 @@ function renderGrid() {
   const bucket = ISO_BUCKETS.find((b) => b.id === iso);
   let list = state.data.films.filter((f) => {
     if (kind !== 'all' && filmKind(f) !== kind) return false;
+    if (state.filters.pref && state.pref && !state.pref.byFilm.has(f.slug)) return false;
     if (bucket) {
       const n = isoNumber(f);
       if (n == null || !bucket.test(n)) return false;
@@ -188,6 +245,7 @@ function renderGrid() {
     price: (a, b) => a.price - b.price,
     'price-desc': (a, b) => b.price - a.price,
     iso: (a, b) => (isoNumber(a) ?? 1e9) - (isoNumber(b) ?? 1e9) || a.name.localeCompare(b.name),
+    pref: (a, b) => (state.pref?.byFilm.get(b.slug)?.count || 0) - (state.pref?.byFilm.get(a.slug)?.count || 0) || a.name.localeCompare(b.name),
   };
   list = list.slice().sort(by[sort] || by.name);
 
@@ -200,6 +258,7 @@ function renderGrid() {
   grid.innerHTML = list
     .map((f) => {
       const k = filmKind(f);
+      const pref = state.pref?.byFilm.get(f.slug);
       return `<li>
         <a class="card" href="#/film/${esc(f.slug)}">
           <div class="card-img">${f.image ? `<img src="${esc(f.image.src)}" alt="" loading="lazy" decoding="async" />` : ''}</div>
@@ -210,6 +269,7 @@ function renderGrid() {
               ${f.iso ? `<span class="tag iso">ISO ${esc(f.iso)}</span>` : ''}
               <span class="tag type-${k}">${esc(f.type || KIND_LABEL[k])}</span>
               ${f.onSale ? '<span class="tag sale">Sale</span>' : ''}
+              ${pref ? `<span class="tag pref" title="${pref.count} photo${pref.count > 1 ? 's' : ''} taken with ${esc(pref.camera)}">★ ${esc(pref.camera)} · ${pref.count}</span>` : ''}
             </div>
             <div class="card-foot">
               ${priceHtml(f)}
@@ -268,6 +328,7 @@ function renderFilm(slug) {
       <div class="samples-head">
         <h2 id="samples-title">Shot on ${esc(film.name)}</h2>
       </div>
+      <p class="pref-note" id="pref-note" hidden></p>
       <p class="source-note" id="source-note">Looking for sample photos on Wikimedia Commons…</p>
       <div class="cameras" id="cameras"></div>
       <div class="gallery" id="gallery"></div>
@@ -288,18 +349,34 @@ async function loadSamples(film, renderId) {
   const gallery = main.querySelector('#gallery');
   const foot = main.querySelector('#gallery-foot');
   const camerasEl = main.querySelector('#cameras');
-  const samples = { photos: [], next: null, camera: null, only35: false };
+  const prefNoteEl = main.querySelector('#pref-note');
+  const samples = { photos: [], preferred: [], names: [], next: null, camera: null, only35: false };
   const stale = () => renderId !== filmRenderId;
 
   let source;
+  let sourceError = null;
   try {
     source = await findSource(film.name);
   } catch (err) {
-    if (!stale()) showError(err);
-    return;
+    sourceError = err; // Commons trouble: your camera's photos (e.g. from Flickr) can still show
   }
   if (stale()) return;
-  if (!source) return showNothing();
+  if (!source && !sourceError) return showNothing(); // turned off in commons-overrides.json
+
+  // Your camera's photos of this film go first.
+  try {
+    const pref = await preferredPhotosFor(film.name, source || null);
+    samples.preferred = pref.photos;
+    samples.names = pref.names;
+  } catch {
+    // Not fatal: just show the regular photos.
+  }
+  if (stale()) return;
+  if (sourceError) {
+    if (samples.preferred.length === 0) return showError(sourceError);
+    note.textContent = `Other sample photos couldn’t load right now (${sourceError.message}).`;
+    return draw();
+  }
 
   const describe = () =>
     source.kind === 'category'
@@ -317,7 +394,10 @@ async function loadSamples(film, renderId) {
       // Strict filtering can empty a page of text-search results; look a bit further.
       if (page.photos.length === 0 && page.next && samples.pages < 4) return more();
     } catch (err) {
-      if (!stale()) showError(err);
+      if (stale()) return;
+      if (samples.preferred.length === 0 && samples.photos.length === 0) return showError(err);
+      draw();
+      foot.innerHTML = `<p class="pack">Couldn’t load more photos: ${esc(err.message)}</p>`;
       return;
     }
     // Nothing in the category: fall back to a text search once.
@@ -328,26 +408,69 @@ async function loadSamples(film, renderId) {
       samples.pages = 0;
       return more();
     }
-    if (samples.photos.length === 0) return showNothing();
-    note.innerHTML = describe();
+    if (samples.photos.length === 0 && samples.preferred.length === 0) return showNothing();
+    note.innerHTML = samples.photos.length ? describe() : '';
     draw();
   }
 
-  function visible() {
-    return samples.photos.filter((p) => (!samples.camera || p.cameras.includes(samples.camera)) && (!samples.only35 || p.format === '35mm film'));
+  // Your camera's photos first, then everything else (no duplicates).
+  function combined() {
+    const names = samples.names;
+    const seen = new Set();
+    const out = [];
+    for (const p of [...samples.preferred, ...samples.photos]) {
+      if (seen.has(p.pageUrl)) continue;
+      seen.add(p.pageUrl);
+      const q = { ...p, cameras: [...p.cameras] };
+      q.rank = names.length ? preferredRank(q, names) : -1;
+      out.push(q);
+    }
+    const order = (p) => (p.rank < 0 ? Infinity : p.rank);
+    return out.map((p, i) => [p, i]).sort((a, b) => order(a[0]) - order(b[0]) || a[1] - b[1]).map(([p]) => p);
+  }
+
+  function visible(all) {
+    return all.filter((p) => (!samples.camera || p.cameras.includes(samples.camera)) && (!samples.only35 || p.format === '35mm film'));
+  }
+
+  function drawPrefNote(all) {
+    const names = samples.names;
+    if (!names.length) return (prefNoteEl.hidden = true);
+    const mine = all.filter((p) => p.rank === 0).length;
+    const sisters = all.filter((p) => p.rank > 0).length;
+    prefNoteEl.hidden = false;
+    prefNoteEl.classList.toggle('found', mine + sisters > 0);
+    if (mine + sisters === 0) {
+      prefNoteEl.innerHTML = `No photos taken with your ${esc(names[0])} on this film are on Wikimedia Commons yet, so you’re seeing other cameras.`;
+      return;
+    }
+    const parts = [];
+    if (mine) parts.push(`${mine} taken with your <strong>${esc(names[0])}</strong>`);
+    if (sisters) {
+      const models = [...new Set(all.filter((p) => p.rank > 0).map((p) => names[p.rank]))];
+      parts.push(`${sisters} with the sister model${models.length > 1 ? 's' : ''} ${esc(models.join(' and '))} (same lens)`);
+    }
+    const fromFlickr = all.some((p) => p.rank >= 0 && p.site === 'Flickr');
+    prefNoteEl.innerHTML = `★ ${parts.join(' and ')}, shown first.${fromFlickr ? ' Flickr photos belong to their photographers; tap one for credit and a link to the original.' : ''}`;
   }
 
   function draw() {
     // Camera summary chips
+    const all = combined();
+    drawPrefNote(all);
     const counts = new Map();
-    for (const p of samples.photos) for (const c of p.cameras) counts.set(c, (counts.get(c) || 0) + 1);
-    const unknown = samples.photos.filter((p) => p.cameras.length === 0).length;
-    const formats = new Set(samples.photos.map((p) => p.format).filter(Boolean));
-    const sorted = [...counts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+    for (const p of all) for (const c of p.cameras) counts.set(c, (counts.get(c) || 0) + 1);
+    const unknown = all.filter((p) => p.cameras.length === 0).length;
+    const formats = new Set(all.map((p) => p.format).filter(Boolean));
+    const camRank = (c) => {
+      const i = samples.names.findIndex((n) => n.toLowerCase() === c.toLowerCase());
+      return i < 0 ? Infinity : i;
+    };
+    const sorted = [...counts].sort((a, b) => camRank(a[0]) - camRank(b[0]) || b[1] - a[1] || a[0].localeCompare(b[0]));
     camerasEl.innerHTML = sorted.length
       ? `<span class="toolbar-label">Cameras</span>
-         <button class="chip" data-cam="" aria-pressed="${!samples.camera}">All<span class="count">${samples.photos.length}</span></button>
-         ${sorted.map(([c, n]) => `<button class="chip" data-cam="${esc(c)}" aria-pressed="${samples.camera === c}">${esc(c)}<span class="count">${n}</span></button>`).join('')}
+         <button class="chip" data-cam="" aria-pressed="${!samples.camera}">All<span class="count">${all.length}</span></button>
+         ${sorted.map(([c, n]) => `<button class="chip ${camRank(c) < Infinity ? 'chip-pref' : ''}" data-cam="${esc(c)}" aria-pressed="${samples.camera === c}">${camRank(c) < Infinity ? '★ ' : ''}${esc(c)}<span class="count">${n}</span></button>`).join('')}
          ${unknown ? `<span class="pack">${unknown} with camera not listed</span>` : ''}
          ${formats.size > 1 || (formats.size === 1 && !formats.has('35mm film')) ? `<button class="chip" data-only35 aria-pressed="${samples.only35}">35mm shots only</button>` : ''}`
       : '';
@@ -362,22 +485,22 @@ async function loadSamples(film, renderId) {
       draw();
     });
 
-    const list = visible();
+    const list = visible(all);
     gallery.innerHTML = list.length
       ? list
           .map((p, i) => {
             const cam = p.cameras[0];
-            return `<button class="shot" data-i="${i}" aria-label="Open photo: ${esc(p.title)}">
+            return `<button class="shot ${p.rank >= 0 ? 'preferred' : ''}" data-i="${i}" aria-label="Open photo: ${esc(p.title)}">
               <img src="${esc(p.thumb)}" width="${p.width}" height="${p.height}" alt="${esc(p.description || p.title)}" loading="lazy" decoding="async" />
               <span class="shot-cap">
-                <span class="shot-cam ${cam ? '' : 'unknown'}">${CAMERA_ICON}<span>${esc(cam || 'Camera not listed')}</span></span>
+                <span class="shot-cam ${cam ? '' : 'unknown'}">${p.rank >= 0 ? '<span class="star" aria-hidden="true">★</span>' : CAMERA_ICON}<span>${esc(cam || 'Camera not listed')}</span></span>
                 ${p.format && p.format !== '35mm film' ? `<span class="tag">${esc(p.format.replace(' film', ''))}</span>` : ''}
               </span>
             </button>`;
           })
           .join('')
       : `<p class="no-photos">No photos match this filter yet${samples.next ? ' – try loading more.' : '.'}</p>`;
-    gallery.querySelectorAll('.shot').forEach((b) => b.addEventListener('click', () => openLightbox(list, Number(b.dataset.i), film)));
+    gallery.querySelectorAll('.shot').forEach((b) => b.addEventListener('click', () => openLightbox(list, Number(b.dataset.i), film, samples.names)));
 
     foot.innerHTML = samples.next ? `<button class="btn secondary" id="more">Load more photos</button>` : '';
     foot.querySelector('#more')?.addEventListener('click', more);
@@ -409,19 +532,19 @@ async function loadSamples(film, renderId) {
 
 // ---------- lightbox ----------
 
-function openLightbox(list, index, film) {
+function openLightbox(list, index, film, names = []) {
   const p = list[index];
   const cam = p.cameras;
   lightbox.innerHTML = `
     <div class="lb-inner">
-      <div class="lb-img"><img src="${esc(p.thumb.replace(/\/\d+px-/, '/1600px-'))}" alt="${esc(p.description || p.title)}" /></div>
+      <div class="lb-img"><img src="${esc(p.big || p.thumb.replace(/\/\d+px-/, '/1600px-'))}" alt="${esc(p.description || p.title)}" /></div>
       <div class="lb-side">
         <button class="lb-close" aria-label="Close">×</button>
         <h3>${esc(p.title)}</h3>
         <dl class="facts">
-          <div><dt>Camera</dt><dd>${
+          <div><dt>Camera</dt><dd>${p.rank === 0 ? '<span class="pref-badge">★ Your camera</span>' : p.rank > 0 ? `<span class="pref-badge">★ Sister model of your ${esc(names[0] || '')}</span>` : ''}${
             cam.length
-              ? cam.map((c) => `${esc(c)}<span class="hint"><a href="${esc(cameraCategoryUrl(c))}" target="_blank" rel="noopener">More photos from this camera ↗</a> · <a href="https://en.wikipedia.org/w/index.php?search=${encodeURIComponent(c + ' camera')}" target="_blank" rel="noopener">About it ↗</a></span>`).join('<br>')
+              ? cam.map((c) => `${esc(c)}<span class="hint"><a href="${esc(p.site === 'Flickr' ? `https://www.flickr.com/photos/tags/${encodeURIComponent(c.toLowerCase().replace(/[^a-z0-9]/g, ''))}` : cameraCategoryUrl(c))}" target="_blank" rel="noopener">More photos from this camera ↗</a> · <a href="https://en.wikipedia.org/w/index.php?search=${encodeURIComponent(c + ' camera')}" target="_blank" rel="noopener">About it ↗</a></span>`).join('<br>')
               : 'Not listed by the photographer'
           }</dd></div>
           ${p.lenses.length ? `<div><dt>Lens</dt><dd>${p.lenses.map(esc).join('<br>')}</dd></div>` : ''}
@@ -431,7 +554,7 @@ function openLightbox(list, index, film) {
           <div><dt>Photo by</dt><dd>${esc(p.author)}${p.license ? `<span class="hint">License: ${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" target="_blank" rel="noopener">${esc(p.license)}</a>` : esc(p.license)}</span>` : ''}</dd></div>
         </dl>
         ${p.description ? `<p class="lb-desc">${esc(p.description)}</p>` : ''}
-        <p class="lb-desc"><a href="${esc(p.pageUrl)}" target="_blank" rel="noopener">View on Wikimedia Commons ↗</a></p>
+        <p class="lb-desc"><a href="${esc(p.pageUrl)}" target="_blank" rel="noopener">View on ${esc(p.site || 'Wikimedia Commons')} ↗</a></p>
         <div class="lb-nav">
           <button class="btn secondary" data-step="-1" ${index === 0 ? 'disabled' : ''}>← Previous</button>
           <button class="btn secondary" data-step="1" ${index === list.length - 1 ? 'disabled' : ''}>Next →</button>
@@ -441,10 +564,10 @@ function openLightbox(list, index, film) {
   const big = lightbox.querySelector('.lb-img img');
   big.addEventListener('error', () => (big.src = p.thumb), { once: true });
   lightbox.querySelector('.lb-close').addEventListener('click', () => lightbox.close());
-  lightbox.querySelectorAll('[data-step]').forEach((b) => b.addEventListener('click', () => openLightbox(list, index + Number(b.dataset.step), film)));
+  lightbox.querySelectorAll('[data-step]').forEach((b) => b.addEventListener('click', () => openLightbox(list, index + Number(b.dataset.step), film, names)));
   lightbox.onkeydown = (e) => {
-    if (e.key === 'ArrowRight' && index < list.length - 1) openLightbox(list, index + 1, film);
-    if (e.key === 'ArrowLeft' && index > 0) openLightbox(list, index - 1, film);
+    if (e.key === 'ArrowRight' && index < list.length - 1) openLightbox(list, index + 1, film, names);
+    if (e.key === 'ArrowLeft' && index > 0) openLightbox(list, index - 1, film, names);
   };
   if (!lightbox.open) lightbox.showModal();
 }
