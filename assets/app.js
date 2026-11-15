@@ -9,6 +9,11 @@ import { findSource, loadPhotos, categoryUrl, cameraCategoryUrl, prettyCategory,
 // (set by the preview build). Only the saved photos are shown there.
 const STATIC = Boolean(window.SHELF_LIFE_STATIC);
 
+// Links between views. The snapshot copy uses simple "#film-<slug>" links,
+// which is all claude.ai pages allow; the full site uses "#/film/<slug>".
+const HOME_HREF = STATIC ? '#films' : '#/';
+const filmHref = (slug) => (STATIC ? `#film-${encodeURIComponent(slug)}` : `#/film/${encodeURIComponent(slug)}`);
+
 const main = document.getElementById('main');
 const lightbox = document.getElementById('lightbox');
 
@@ -264,7 +269,7 @@ function renderGrid() {
       const k = filmKind(f);
       const pref = state.pref?.byFilm.get(f.slug);
       return `<li>
-        <a class="card" href="#/film/${esc(f.slug)}">
+        <a class="card" href="${filmHref(f.slug)}">
           <div class="card-img">${f.image ? `<img src="${esc(f.image.src)}" alt="" loading="lazy" decoding="async" />` : ''}</div>
           <div class="card-body">
             <span class="brand">${esc(f.brand || '')}</span>
@@ -294,8 +299,8 @@ function renderFilm(slug) {
   const film = state.data.films.find((f) => f.slug === slug);
   if (!film) {
     main.innerHTML = `
-      <a class="back" href="#/">← All films</a>
-      <div class="error-box"><h1>That film isn’t in stock any more</h1><p>It may have sold out since you opened this link. <a href="#/">See what’s in stock now.</a></p></div>`;
+      <a class="back" href="${HOME_HREF}">← All films</a>
+      <div class="error-box"><h1>That film isn’t in stock any more</h1><p>It may have sold out since you opened this link. <a href="${HOME_HREF}">See what’s in stock now.</a></p></div>`;
     return;
   }
   document.title = `${film.name} · Shelf Life`;
@@ -303,7 +308,7 @@ function renderFilm(slug) {
   const siblings = state.data.films.filter((f) => f.name === film.name && f.slug !== film.slug);
 
   main.innerHTML = `
-    <a class="back" href="#/">← All films</a>
+    <a class="back" href="${HOME_HREF}">← All films</a>
     <section class="film-hero">
       <div class="film-img">${film.image ? `<img src="${esc(film.image.src)}" alt="${esc(film.image.alt)}" />` : ''}</div>
       <div class="film-info">
@@ -322,7 +327,7 @@ function renderFilm(slug) {
           ${spec('Pack', film.rolls > 1 ? `${film.rolls} rolls` : '1 roll')}
           ${spec('Process', film.process)}
         </dl>
-        ${siblings.length ? `<p class="summary">Also in stock: ${siblings.map((s) => `<a href="#/film/${esc(s.slug)}">${esc(packLabel(s) || s.fullName)} for ${esc(money(s.price, s.currency))}</a>`).join(', ')}</p>` : ''}
+        ${siblings.length ? `<p class="summary">Also in stock: ${siblings.map((s) => `<a href="${filmHref(s.slug)}">${esc(packLabel(s) || s.fullName)} for ${esc(money(s.price, s.currency))}</a>`).join(', ')}</p>` : ''}
         ${film.summary ? `<p class="summary">${esc(film.summary)}</p>` : ''}
         ${film.descriptionHtml ? `<details class="more"><summary>Full description from Graination</summary><div class="desc">${film.descriptionHtml}</div></details>` : ''}
       </div>
@@ -618,7 +623,7 @@ async function route() {
     main.innerHTML = `<div class="error-box"><h1>Couldn’t load the film list</h1><p>${esc(err.message)}</p></div>`;
     return;
   }
-  const m = location.hash.match(/^#\/film\/([^/?#]+)/);
+  const m = location.hash.match(/^#(?:\/film\/|film-)([^/?#]+)/);
   if (m) renderFilm(decodeURIComponent(m[1]));
   else renderList();
 }
