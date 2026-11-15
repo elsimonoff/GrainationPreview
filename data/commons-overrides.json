@@ -1,0 +1,4 @@
+{
+  "_help": "Fix which sample photos a film shows. Key = film name exactly as shown on the site. Value = a Wikimedia Commons category (starting with 'Category:'), or search words in quotes, or null to show no photos. Lines starting with _ are ignored.",
+  "Lomography Analogue Trio Mixed Film Pack": "\"Lomography Color Negative\""
+}
