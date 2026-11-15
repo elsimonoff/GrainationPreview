@@ -4,6 +4,7 @@
 
 import { bestCategory, searchPhrase, searchWords, tokens, BRANDS, CATEGORY_PREFIX } from './match.js';
 import { searchCameraPhotos, squash as squashTag } from './flickr.js';
+import { parsePhoto, PHOTO_PROPS } from './photo-parse.js';
 
 const API = 'https://commons.wikimedia.org/w/api.php';
 const CACHE_HOURS = 12;
@@ -99,71 +100,7 @@ const TEXT = (html = '') => {
   return (div.textContent || '').replace(/\s+/g, ' ').trim();
 };
 
-const LENS_HINT = /\b\d+(\.\d+)?\s?mm\b|f\/?\s?\d|\blens\b|nikkor|summicron|summilux|summarit|summaron|elmarit|elmar|noctilux|zuiko|takumar|planar|sonnar|tessar|biogon|distagon|helios|industar|jupiter|rokkor|hexanon|ultron|nokton|skopar|heliar|xenon|xenar|sigma|tamron|tokina|canon fd|canon ef/i;
-
-function describeCategories(cats) {
-  const cameras = [];
-  const lenses = [];
-  let format = null;
-  const films = [];
-  for (const { title } of cats) {
-    if (title.startsWith(CATEGORY_PREFIX)) films.push(title.slice(CATEGORY_PREFIX.length));
-    let m = title.match(/^Category:Taken with (.+)$/);
-    if (m) {
-      const name = m[1].replace(/\s*\((?:camera|lens)\)$/i, '');
-      (LENS_HINT.test(name) && !/camera/i.test(name) ? lenses : cameras).push(name);
-      continue;
-    }
-    m = title.match(/^Category:Taken on (.+ film)$/i);
-    if (m) format = m[1];
-  }
-  return { cameras, lenses, format, films };
-}
-
-function exifValue(metadata, name) {
-  const v = (metadata || []).find((m) => m.name === name)?.value;
-  return typeof v === 'string' ? v.trim() : null;
-}
-
-function toPhoto(page) {
-  const info = page.imageinfo?.[0];
-  if (!info || !info.thumburl) return null;
-  if (!/^image\/(jpeg|png|webp|tiff|gif)/.test(info.mime || 'image/jpeg')) return null;
-  const meta = info.extmetadata || {};
-  const { cameras, lenses, format, films } = describeCategories(page.categories || []);
-  const make = exifValue(info.metadata, 'Make');
-  const model = exifValue(info.metadata, 'Model');
-  let device = [make, model].filter(Boolean).join(' ');
-  if (make && model && model.toLowerCase().startsWith(make.toLowerCase().split(' ')[0])) device = model;
-  const title = page.title.replace(/^File:/, '').replace(/\.[a-z0-9]+$/i, '');
-  return {
-    site: 'Wikimedia Commons',
-    title,
-    pageUrl: info.descriptionurl,
-    thumb: info.thumburl,
-    width: info.thumbwidth,
-    height: info.thumbheight,
-    full: info.url,
-    cameras,
-    lenses,
-    format, // e.g. "35mm film", "120 film"
-    films, // Commons film collections it's filed under, e.g. ["Kodak Tri-X 400"]
-    device: device || null, // what the file's metadata says made it (often the scanner)
-    date: TEXT(meta.DateTimeOriginal?.value || '').slice(0, 10) || null,
-    author: TEXT(meta.Artist?.value || '') || 'Unknown author',
-    license: TEXT(meta.LicenseShortName?.value || ''),
-    licenseUrl: meta.LicenseUrl?.value || null,
-    description: TEXT(meta.ImageDescription?.value || '').slice(0, 280),
-  };
-}
-
-const PHOTO_PROPS = {
-  prop: 'imageinfo|categories',
-  cllimit: 'max',
-  iiprop: 'url|extmetadata|metadata|mime',
-  iiurlwidth: '800',
-  iiextmetadatafilter: 'Artist|LicenseShortName|LicenseUrl|DateTimeOriginal|ImageDescription',
-};
+const toPhoto = (page) => parsePhoto(page, TEXT);
 
 // Loads one page of photos. Pass the `next` value from a previous call to get more.
 // Step 1 lists file names, step 2 fetches their details (picture, camera, credit).
@@ -319,4 +256,23 @@ export async function preferredPhotosFor(filmName, source = null) {
   const ranked = found.map((p) => ({ ...p, cameras: [...p.cameras], rank: 0 }));
   for (const p of ranked) p.rank = preferredRank(p, names);
   return { names, photos: ranked.filter((p) => p.rank >= 0).sort((a, b) => a.rank - b.rank) };
+}
+
+// ---------- photos saved by the GitHub Action (data/photos.json) ----------
+
+let savedPromise;
+function saved() {
+  savedPromise ??= loadJson('data/photos.json').then((d) => d?.films || {});
+  return savedPromise;
+}
+// { source, photos } for one film, or null when nothing was saved for it.
+export async function savedPhotos(filmName) {
+  const entry = (await saved())[filmName];
+  return entry && entry.photos?.length ? entry : null;
+}
+// Every saved photo, for spotting your camera's photos without asking Commons.
+export async function savedPool() {
+  const names = ((await settings()).preferredCameras || []).filter(Boolean);
+  const all = Object.values(await saved()).flatMap((e) => e.photos || []);
+  return { names, photos: all };
 }

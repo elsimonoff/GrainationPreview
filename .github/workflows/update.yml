@@ -38,6 +38,12 @@ jobs:
           COMMONS_CONTACT: ${{ vars.COMMONS_CONTACT }}
         continue-on-error: true
 
+      - name: Collect sample photos for each film (each refreshed weekly)
+        run: node scripts/fetch-photos.mjs
+        env:
+          COMMONS_CONTACT: ${{ vars.COMMONS_CONTACT }}
+        continue-on-error: true
+
       - name: Save changes
         run: |
           git config user.name "github-actions[bot]"

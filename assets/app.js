@@ -3,7 +3,11 @@
 //   #/                → list of in-stock films
 //   #/film/<slug>     → one film, with sample photos and cameras
 
-import { findSource, loadPhotos, categoryUrl, cameraCategoryUrl, prettyCategory, preferredPool, preferredPhotosFor, preferredRank, shotOnFilm } from './commons.js';
+import { findSource, loadPhotos, categoryUrl, cameraCategoryUrl, prettyCategory, preferredPool, preferredPhotosFor, preferredRank, shotOnFilm, savedPhotos, savedPool, settings } from './commons.js';
+
+// Static mode: a snapshot copy of the site that can't call other websites
+// (set by the preview build). Only the saved photos are shown there.
+const STATIC = Boolean(window.SHELF_LIFE_STATIC);
 
 const main = document.getElementById('main');
 const lightbox = document.getElementById('lightbox');
@@ -204,7 +208,7 @@ async function loadPreferredForList() {
   if (state.pref) return drawRow();
   drawRow();
   try {
-    const { names, photos } = await preferredPool();
+    const { names, photos } = STATIC ? await savedPool() : await preferredPool();
     const byFilm = new Map();
     for (const f of state.data.films) {
       let count = 0;
@@ -355,19 +359,35 @@ async function loadSamples(film, renderId) {
 
   let source;
   let sourceError = null;
-  try {
-    source = await findSource(film.name);
-  } catch (err) {
-    sourceError = err; // Commons trouble: your camera's photos (e.g. from Flickr) can still show
-  }
+  // Photos the GitHub Action already collected open instantly.
+  const kept = await savedPhotos(film.name);
   if (stale()) return;
-  if (!source && !sourceError) return showNothing(); // turned off in commons-overrides.json
+  if (kept) {
+    source = kept.source;
+    samples.photos = kept.photos.slice();
+    samples.fromSaved = true;
+    samples.canLoadLive = !STATIC;
+  } else if (STATIC) {
+    return showNothing();
+  } else {
+    try {
+      source = await findSource(film.name);
+    } catch (err) {
+      sourceError = err; // Commons trouble: your camera's photos (e.g. from Flickr) can still show
+    }
+    if (stale()) return;
+    if (!source && !sourceError) return showNothing(); // turned off in commons-overrides.json
+  }
 
   // Your camera's photos of this film go first.
   try {
-    const pref = await preferredPhotosFor(film.name, source || null);
-    samples.preferred = pref.photos;
-    samples.names = pref.names;
+    if (STATIC) {
+      samples.names = ((await settings()).preferredCameras || []).filter(Boolean);
+    } else {
+      const pref = await preferredPhotosFor(film.name, source || null);
+      samples.preferred = pref.photos;
+      samples.names = pref.names;
+    }
   } catch {
     // Not fatal: just show the regular photos.
   }
@@ -385,10 +405,12 @@ async function loadSamples(film, renderId) {
 
   async function more() {
     foot.innerHTML = `<button class="btn secondary" disabled>Loading…</button>`;
+    samples.canLoadLive = false;
     try {
       const page = await loadPhotos(source, samples.next);
       if (stale()) return;
-      samples.photos.push(...page.photos);
+      const have = new Set(samples.photos.map((p) => p.pageUrl));
+      samples.photos.push(...page.photos.filter((p) => !have.has(p.pageUrl)));
       samples.next = page.next;
       samples.pages = (samples.pages || 0) + 1;
       // Strict filtering can empty a page of text-search results; look a bit further.
@@ -502,7 +524,13 @@ async function loadSamples(film, renderId) {
       : `<p class="no-photos">No photos match this filter yet${samples.next ? ' – try loading more.' : '.'}</p>`;
     gallery.querySelectorAll('.shot').forEach((b) => b.addEventListener('click', () => openLightbox(list, Number(b.dataset.i), film, samples.names)));
 
-    foot.innerHTML = samples.next ? `<button class="btn secondary" id="more">Load more photos</button>` : '';
+    const moreUrl = source?.kind === 'category' ? categoryUrl(source.title) : `https://commons.wikimedia.org/w/index.php?ns6=1&search=${encodeURIComponent(source?.query || film.name)}`;
+    foot.innerHTML =
+      samples.next || samples.canLoadLive
+        ? `<button class="btn secondary" id="more">Load more photos</button>`
+        : STATIC && source
+          ? `<a class="btn secondary" href="${esc(moreUrl)}" target="_blank" rel="noopener">More on Wikimedia Commons ↗</a>`
+          : '';
     foot.querySelector('#more')?.addEventListener('click', more);
   }
 
@@ -527,7 +555,12 @@ async function loadSamples(film, renderId) {
     foot.innerHTML = '';
   }
 
-  more();
+  if (samples.fromSaved) {
+    note.innerHTML = describe();
+    draw();
+  } else {
+    more();
+  }
 }
 
 // ---------- lightbox ----------
