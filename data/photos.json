@@ -1,0 +1,3534 @@
+{
+ "generatedAt": "2026-11-15T22:42:03.909Z",
+ "films": {
+  "AgfaPhoto APX 100": {
+   "fetchedAt": "2026-11-15T22:34:56.559Z",
+   "source": {
+    "kind": "search",
+    "query": "\"AgfaPhoto APX 100\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Snow on Stone - Flickr - Tim M. B.",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Snow_on_Stone_-_Flickr_-_Tim_M._B..jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Snow_on_Stone_-_Flickr_-_Tim_M._B..jpg/960px-Snow_on_Stone_-_Flickr_-_Tim_M._B..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 532,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Snow_on_Stone_-_Flickr_-_Tim_M._B..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-04-22"
+     ],
+     "device": "Reflecta RPS 10M",
+     "date": "Taken on 2",
+     "author": "Tim M. B.",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Canon EOS 300. Agfaphoto APX 100."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Rådhusbryggen , Spotmatic - Flickr - Bernt Sønvisen",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:R%C3%A5dhusbryggen_,_Spotmatic_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/R%C3%A5dhusbryggen_%2C_Spotmatic_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg/960px-R%C3%A5dhusbryggen_%2C_Spotmatic_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1067,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/R%C3%A5dhusbryggen_%2C_Spotmatic_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-07-19"
+     ],
+     "device": "EPSON Perfection 3200",
+     "date": "Taken on 1",
+     "author": "Bernt Sønvisen from Oslo, Norway",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Spotmatic with APX100 film developed in D-76"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "2021-11-28 Schalenbrunnen Marienstrasse Dresden Agfa APX100 6400dpi",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:2021-11-28_Schalenbrunnen_Marienstrasse_Dresden_Agfa_APX100_6400dpi.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2021-11-28_Schalenbrunnen_Marienstrasse_Dresden_Agfa_APX100_6400dpi.jpg/960px-2021-11-28_Schalenbrunnen_Marienstrasse_Dresden_Agfa_APX100_6400dpi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 526,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/2021-11-28_Schalenbrunnen_Marienstrasse_Dresden_Agfa_APX100_6400dpi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": "135 film",
+     "films": [],
+     "device": null,
+     "date": "2021-12-01",
+     "author": "VSchagow",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Schalenbrunnen Blickrichtung Centrum-Galerie, Schwarzweißfoto auf Agfa APX 100, Aufnahme mit Kleinbildspiegelreflexkamera \"Praktica LB 2\"."
+    }
+   ]
+  },
+  "AgfaPhoto APX 400 Professional": {
+   "fetchedAt": "2026-11-15T22:34:59.579Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on AgfaPhoto APX 400 (new emulsion)"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "IKH-areena 20220703",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:IKH-areena_20220703.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/IKH-areena_20220703.jpg/960px-IKH-areena_20220703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/IKH-areena_20220703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon FTb"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon FTb",
+     "date": "2022-07-03",
+     "author": "Santeri Viinamäki",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "IKH-areenan (Karhu Basket Areena) rakennustyömaa Kauhajoella 3. heinäkuuta 2022. Kuvattu mustavalkofilmille (AgfaPhoto APX 400)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Ideapark Seinäjoki 20220125",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Ideapark_Sein%C3%A4joki_20220125.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ideapark_Sein%C3%A4joki_20220125.jpg/960px-Ideapark_Sein%C3%A4joki_20220125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 527,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ideapark_Sein%C3%A4joki_20220125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon FTb"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon FTb",
+     "date": "2022-01-25",
+     "author": "Santeri Viinamäki",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Ideapark shopping centre in Seinäjoki, Finland."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Veto vs Peli-Karhut 20211023",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Veto_vs_Peli-Karhut_20211023.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Veto_vs_Peli-Karhut_20211023.jpg/960px-Veto_vs_Peli-Karhut_20211023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 520,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Veto_vs_Peli-Karhut_20211023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon FTb"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon FTb",
+     "date": "2021-10-23",
+     "author": "Santeri Viinamäki",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Naisten Korisliigan ottelu Vimpelin Veto vs Kotkan Peli-Karhut. Vimpelissä 23. lokakuuta 2021. Kuvattu mustavalkofilmille."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Kurikka Church 20211017",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Kurikka_Church_20211017.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kurikka_Church_20211017.jpg/960px-Kurikka_Church_20211017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 518,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kurikka_Church_20211017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon FTb"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon FTb",
+     "date": "2021-10-17",
+     "author": "Santeri Viinamäki",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Kurikka Church in Kurikka, Finland."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "FFS Re 620 016 Luzern 060518 IIIc Summitar5cm APX400",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:FFS_Re_620_016_Luzern_060518_IIIc_Summitar5cm_APX400.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/FFS_Re_620_016_Luzern_060518_IIIc_Summitar5cm_APX400.jpg/960px-FFS_Re_620_016_Luzern_060518_IIIc_Summitar5cm_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FFS_Re_620_016_Luzern_060518_IIIc_Summitar5cm_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III",
+      "Leica Summitar"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-05-06",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "SBB CFF FFS Re 620 016 ahead of a freight train at Luzern railway station (scan from negative, AgfaPhoto APX 400, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Arbete på Citybanan vid Mariagårdstäppan Södermalm Stockholm 2013",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Arbete_p%C3%A5_Citybanan_vid_Mariag%C3%A5rdst%C3%A4ppan_S%C3%B6dermalm_Stockholm_2013.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Arbete_p%C3%A5_Citybanan_vid_Mariag%C3%A5rdst%C3%A4ppan_S%C3%B6dermalm_Stockholm_2013.jpg/960px-Arbete_p%C3%A5_Citybanan_vid_Mariag%C3%A5rdst%C3%A4ppan_S%C3%B6dermalm_Stockholm_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 532,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/20/Arbete_p%C3%A5_Citybanan_vid_Mariag%C3%A5rdst%C3%A4ppan_S%C3%B6dermalm_Stockholm_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "FED 2"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Plustek OpticFilm7400",
+     "date": "2013-10-03",
+     "author": "Mikael Knut Nilsson",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Bilden är tagen från ett fönster mot sydost på dåvarande ST:A Birgittas Folkhögskola ner mot bygget av citybanan som pågick där nedanför. bilden är tagen i början av sommaren 2013 med en gammal Sovjetisk FED 2 kamera med ett 55mm Industar objektiv på svartvit Agfafilm"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "2 Reefers Tanger Med 040917 Elmar9cm APX400",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:2_Reefers_Tanger_Med_040917_Elmar9cm_APX400.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2_Reefers_Tanger_Med_040917_Elmar9cm_APX400.jpg/960px-2_Reefers_Tanger_Med_040917_Elmar9cm_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/2_Reefers_Tanger_Med_040917_Elmar9cm_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2017-09-04",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Reefers on MV \"Monte Alegre\" in Tanger Med (scan from negative, AgfaPhoto APX 400 (new emulsion), Leica IIIc, Elmar 9 cm f/4)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Moenckebergstrasse 280817 APX400",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Moenckebergstrasse_280817_APX400.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Moenckebergstrasse_280817_APX400.jpg/960px-Moenckebergstrasse_280817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Moenckebergstrasse_280817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2017-08-28",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Mönckebergstraße in the early morning (scan from negative, AgfaPhoto APX 400 (new emulsion), Leica IIIc, Summitar 5 cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Rastatt Bhf 270817 APX400",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Rastatt_Bhf_270817_APX400.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Rastatt_Bhf_270817_APX400.jpg/960px-Rastatt_Bhf_270817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 534,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Rastatt_Bhf_270817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2017-08-27",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Platform at Rastatt railway station (scan from negative, AgfaPhoto APX 400 (new emulsion), Leica IIIc, Summitar 5 cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "DB 101 136-0 Basel SBB 270817 IC99458 APX400",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:DB_101_136-0_Basel_SBB_270817_IC99458_APX400.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/DB_101_136-0_Basel_SBB_270817_IC99458_APX400.jpg/960px-DB_101_136-0_Basel_SBB_270817_IC99458_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/DB_101_136-0_Basel_SBB_270817_IC99458_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2017-08-27",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "DB 101 136-0 at Basel SBB railway station ahead of InterCity 99458 to Baden-Baden (scan from negative, AgfaPhoto APX 400 (new emulsion), Leica IIIc, Summitar 5 cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "BDt ICE 30272 Zuerich HB 270817 APX400",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:BDt_ICE_30272_Zuerich_HB_270817_APX400.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/BDt_ICE_30272_Zuerich_HB_270817_APX400.jpg/960px-BDt_ICE_30272_Zuerich_HB_270817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/BDt_ICE_30272_Zuerich_HB_270817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2017-08-27",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "BDt driving trailer ahead of InterCityExpress 30272 from Zürich HB to Basel SBB and Berlin Hbf at Zürich HB railway station (scan from negative, AgfaPhoto APX 400 (new emulsion), Leica IIIc, Summitar 5 cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "FS Shimmns 31 83 466 8 907-4 I-MIR Arth-Goldau 120817 APX400",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:FS_Shimmns_31_83_466_8_907-4_I-MIR_Arth-Goldau_120817_APX400.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/FS_Shimmns_31_83_466_8_907-4_I-MIR_Arth-Goldau_120817_APX400.jpg/960px-FS_Shimmns_31_83_466_8_907-4_I-MIR_Arth-Goldau_120817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1199,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/FS_Shimmns_31_83_466_8_907-4_I-MIR_Arth-Goldau_120817_APX400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "AgfaPhoto APX 400 (new emulsion)"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2017-08-12",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "UIC number of FS Shimmns 31 83 466 8 907-4 at Arth-Goldau railway station (scan from negative, AgfaPhoto APX 400 (new emulsion), Leica IIIc, Summitar 5 cm f/2)."
+    }
+   ]
+  },
+  "Foma Fomapan 100 Classic": {
+   "fetchedAt": "2026-11-15T22:35:02.565Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Foma Fomapan 100 Classic\""
+   },
+   "photos": []
+  },
+  "FUJIFILM 200": {
+   "fetchedAt": "2026-11-15T22:35:06.031Z",
+   "source": {
+    "kind": "search",
+    "query": "\"FUJIFILM 200\""
+   },
+   "photos": []
+  },
+  "FUJIFILM 400": {
+   "fetchedAt": "2026-11-15T22:35:08.611Z",
+   "source": {
+    "kind": "search",
+    "query": "\"FUJIFILM 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "BUD LIGHT CAN OR NO CAN...35MM FILM (EXPLORE, 10-04-2026). - Flickr - Salty Lens (Jonny)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:BUD_LIGHT_CAN_OR_NO_CAN...35MM_FILM_(EXPLORE,_10-04-2026)._-_Flickr_-_Salty_Lens_(Jonny).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/BUD_LIGHT_CAN_OR_NO_CAN...35MM_FILM_%28EXPLORE%2C_10-04-2026%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg/960px-BUD_LIGHT_CAN_OR_NO_CAN...35MM_FILM_%28EXPLORE%2C_10-04-2026%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1184,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/92/BUD_LIGHT_CAN_OR_NO_CAN...35MM_FILM_%28EXPLORE%2C_10-04-2026%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2026-10-02"
+     ],
+     "device": null,
+     "date": "Taken on 2",
+     "author": "Salty Lens (Jonny)",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Ala Wai, Oahu, Hawai’i Looks like someone had fun! A lone aluminum can floating on the Ala Wai Canal was captured on a fresh roll of 35mm film. Nikon F2T AS | Carl Zeiss Planar T* 50mm f/1.4 ZF.2 | Fujifilm 400"
+    }
+   ]
+  },
+  "ILFORD Delta 100 Professional": {
+   "fetchedAt": "2026-11-15T22:35:12.031Z",
+   "source": {
+    "kind": "search",
+    "query": "\"ILFORD Delta 100\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "(february 2020, before the blast) walking in Mar Mikhael (Beirut) 504 Peugeot - Flickr - tongeron91",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:(february_2020,_before_the_blast)_walking_in_Mar_Mikhael_(Beirut)_504_Peugeot_-_Flickr_-_tongeron91.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%28february_2020%2C_before_the_blast%29_walking_in_Mar_Mikhael_%28Beirut%29_504_Peugeot_-_Flickr_-_tongeron91.jpg/960px-%28february_2020%2C_before_the_blast%29_walking_in_Mar_Mikhael_%28Beirut%29_504_Peugeot_-_Flickr_-_tongeron91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1175,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/af/%28february_2020%2C_before_the_blast%29_walking_in_Mar_Mikhael_%28Beirut%29_504_Peugeot_-_Flickr_-_tongeron91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2020-03-12"
+     ],
+     "device": null,
+     "date": "Taken on 1",
+     "author": "tongeron91",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "description": "Pentax MX, Pentax FA 28 mm, Ilford delta 100"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "The Hour Is Late - Flickr - incidencematrix",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Hour_Is_Late_-_Flickr_-_incidencematrix.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/The_Hour_Is_Late_-_Flickr_-_incidencematrix.jpg/960px-The_Hour_Is_Late_-_Flickr_-_incidencematrix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1169,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Hour_Is_Late_-_Flickr_-_incidencematrix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Minox 35 GT-E"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-12-10"
+     ],
+     "device": "Minox 35 GT-E",
+     "date": "Taken on 1",
+     "author": "incidencematrix",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Shot with a Minox 35 GT-E Minox Color-Minotar 35mm f/2.8 lens Ilford Delta 100 film Shot at EI 400 and pushed +2 Developed in the Ego Lab using XTOL (1:1, 8:46min at 74F, agitating first and each minute) Scanned with a Coolscan 9000ED"
+    }
+   ]
+  },
+  "ILFORD Delta 3200 Professional": {
+   "fetchedAt": "2026-11-15T22:35:15.038Z",
+   "source": {
+    "kind": "search",
+    "query": "\"ILFORD Delta 3200\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Confessor in Baltimore playing at Maryland Deathfest 2012",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Confessor_in_Baltimore_playing_at_Maryland_Deathfest_2012.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Confessor_in_Baltimore_playing_at_Maryland_Deathfest_2012.jpg/960px-Confessor_in_Baltimore_playing_at_Maryland_Deathfest_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 671,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Confessor_in_Baltimore_playing_at_Maryland_Deathfest_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Mamiya M645 1000s"
+     ],
+     "lenses": [],
+     "format": "120 film",
+     "films": [],
+     "device": "EPSON Perfection 4490",
+     "date": "2012-05-25",
+     "author": "WaeDC",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Confessor in Baltimore playing at Maryland Deathfest 2012"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "All I want for Christmas... - Flickr - chris lovelock",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:All_I_want_for_Christmas..._-_Flickr_-_chris_lovelock.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/All_I_want_for_Christmas..._-_Flickr_-_chris_lovelock.jpg/960px-All_I_want_for_Christmas..._-_Flickr_-_chris_lovelock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1184,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/All_I_want_for_Christmas..._-_Flickr_-_chris_lovelock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Pentax LX"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2020-12-01"
+     ],
+     "device": "Pentax LX",
+     "date": "Taken on 1",
+     "author": "chris lovelock",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Pentax LX Ilford Delta 3200"
+    }
+   ]
+  },
+  "ILFORD Delta 400 Professional": {
+   "fetchedAt": "2026-11-15T22:36:03.271Z",
+   "source": {
+    "kind": "search",
+    "query": "\"ILFORD Delta 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Alley (explored) - Flickr - andrewbasterfield",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Alley_(explored)_-_Flickr_-_andrewbasterfield.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Alley_%28explored%29_-_Flickr_-_andrewbasterfield.jpg/960px-Alley_%28explored%29_-_Flickr_-_andrewbasterfield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1275,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Alley_%28explored%29_-_Flickr_-_andrewbasterfield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "expired film"
+     ],
+     "device": null,
+     "date": "Taken on 1",
+     "author": "Andrew Basterfield",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "description": "Ilford Delta 400 @400 (expired Oct 2004) Ilfosol 3 1:9 6mins 30secs @21.5°C"
+    }
+   ]
+  },
+  "ILFORD FP4 Plus 125": {
+   "fetchedAt": "2026-11-15T22:36:06.103Z",
+   "source": {
+    "kind": "search",
+    "query": "\"ILFORD FP4 Plus 125\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Interieur zodenhuis Firdgum",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Interieur_zodenhuis_Firdgum.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Interieur_zodenhuis_Firdgum.jpg/960px-Interieur_zodenhuis_Firdgum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Interieur_zodenhuis_Firdgum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Zenit 3m"
+     ],
+     "lenses": [],
+     "format": "135 film",
+     "films": [],
+     "device": "Zoran Corporation COACH",
+     "date": "2023-05-13",
+     "author": "Roepers",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "In Firdgum is een zodenhuis nagebouwd op grond van vondsten in terpen en wierden, zoals bijvoorbeeld in Leens, waar hele zodenmuren in de terp werden aangetroffen. Ook is bij het bouwen informatie van zodenhuizen in Noorwegen gebruikt. Desalniettemin stortte het eerste zodenhuis "
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Gereconstrueerd Zodenhuis Firdgum",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Gereconstrueerd_Zodenhuis_Firdgum.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Gereconstrueerd_Zodenhuis_Firdgum.jpg/960px-Gereconstrueerd_Zodenhuis_Firdgum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gereconstrueerd_Zodenhuis_Firdgum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Zenit 3m"
+     ],
+     "lenses": [],
+     "format": "135 film",
+     "films": [],
+     "device": "Zoran Corporation COACH",
+     "date": "2023-05-13",
+     "author": "Roepers",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Het zodenhuis in Firdgum dat op 1 november 2015 is opgeleverd nadat de voorganger die in 2013 was gebouwd was ingestort. Het zodenhuis is gebouwd met hulp van de Rijksuniversiteit Groningen en bedoeld als replica van de oude zodenhuizen in het eerste millenium op de terpen in Gro"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Vuurloze locomotief 6326 en Locomotor 204",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Vuurloze_locomotief_6326_en_Locomotor_204.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Vuurloze_locomotief_6326_en_Locomotor_204.jpg/960px-Vuurloze_locomotief_6326_en_Locomotor_204.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vuurloze_locomotief_6326_en_Locomotor_204.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Zenit 3m"
+     ],
+     "lenses": [],
+     "format": "135 film",
+     "films": [],
+     "device": "Zoran Corporation COACH",
+     "date": "2021-09-12",
+     "author": "Roepers",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Vuurloze locomotief 6326 en SIK 204 ontmoeten elkaar op zondag 12 september bij museumspoorlijn STAR. Camera: Zenit 3M Film: Ilford FP4 plus 125 ISO"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Pingjumer Halsband bij de Blokken",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Pingjumer_Halsband_bij_de_Blokken.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Pingjumer_Halsband_bij_de_Blokken.jpg/960px-Pingjumer_Halsband_bij_de_Blokken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Pingjumer_Halsband_bij_de_Blokken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Zenit 3m"
+     ],
+     "lenses": [],
+     "format": "135 film",
+     "films": [],
+     "device": "Zoran Corporation COACH",
+     "date": "2023-02-26",
+     "author": "Roepers",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Pingjumer Gulden Halsband ter hoogte van de Blokken ten zuiden van Kimswerd Camera: Zenit 3m Film Ilford FP4 Plus 125 ISO"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Slachtedijk bij windmolenpark De Bjirmen",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Slachtedijk_bij_windmolenpark_De_Bjirmen.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Slachtedijk_bij_windmolenpark_De_Bjirmen.jpg/960px-Slachtedijk_bij_windmolenpark_De_Bjirmen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/Slachtedijk_bij_windmolenpark_De_Bjirmen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Zenit 3m"
+     ],
+     "lenses": [],
+     "format": "135 film",
+     "films": [],
+     "device": "Zoran Corporation COACH",
+     "date": "2022-05-01",
+     "author": "Roepers",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Zwart-witfoto van de begroeiing van de Slachtedijk in mei met bloeiende pinksterbloemen. De foto is genomen ter hoogte van windmolenpark de Bjirmen. Op de dijk staat een ligfiets, een Sinner Demon 16/20 Camera: Zenit 3M Film: Ilford FP4 plus 125 ISO"
+    }
+   ]
+  },
+  "Ilford HP5 Plus 400": {
+   "fetchedAt": "2026-11-15T22:36:08.932Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Ilford HP5 Plus 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "SHAKA...EXPIRED 35MM FILM (EXPLORE, 10-01-2025). - Flickr - Salty Lens (Jonny)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:SHAKA...EXPIRED_35MM_FILM_(EXPLORE,_10-01-2025)._-_Flickr_-_Salty_Lens_(Jonny).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/SHAKA...EXPIRED_35MM_FILM_%28EXPLORE%2C_10-01-2025%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg/960px-SHAKA...EXPIRED_35MM_FILM_%28EXPLORE%2C_10-01-2025%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/SHAKA...EXPIRED_35MM_FILM_%28EXPLORE%2C_10-01-2025%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "expired film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "Taken on 1",
+     "author": "Salty Lens (Jonny)",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Waikiki, Oahu, Hawai'i Wahine paddling out for her heat and waving 'shaka'. Longboarder captured on expired 35mm film from 12/2014. Nikonos V | Nikonos 35mm f/2.5 | Ilford HP5 Plus 400 @ ISO 800"
+    }
+   ]
+  },
+  "ILFORD Ortho Plus 80": {
+   "fetchedAt": "2026-11-15T22:36:11.850Z",
+   "source": {
+    "kind": "search",
+    "query": "\"ILFORD Ortho Plus 80\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Before the storm - Flickr - chris lovelock",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Before_the_storm_-_Flickr_-_chris_lovelock.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Before_the_storm_-_Flickr_-_chris_lovelock.jpg/960px-Before_the_storm_-_Flickr_-_chris_lovelock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 540,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Before_the_storm_-_Flickr_-_chris_lovelock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Pentax ME Super"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2020-02-27"
+     ],
+     "device": "Pentax ME Super",
+     "date": "Taken on 2",
+     "author": "chris lovelock",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Pentax ME Super Ilford Ortho Plus 80"
+    }
+   ]
+  },
+  "ILFORD Pan F Plus 50": {
+   "fetchedAt": "2026-11-15T22:36:14.411Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Ilford PAN F"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "St. Johannes Nürnberg Bronzeguss",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:St._Johannes_N%C3%BCrnberg_Bronzeguss.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/St._Johannes_N%C3%BCrnberg_Bronzeguss.jpg/960px-St._Johannes_N%C3%BCrnberg_Bronzeguss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 594,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/St._Johannes_N%C3%BCrnberg_Bronzeguss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Rolleiflex SL66"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Ilford PAN F"
+     ],
+     "device": null,
+     "date": "1996-06",
+     "author": "Hans-Jürgen Neubert",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Skull St.Johannes Cemetry bronze casting. Taken with Rolleiflex SL66 at July 1996. 80mm/f8 Film:Ilford Pan F@25ASA, Perceptol (1:1), paperscan from Fineprint 1998 Agfa Baryt paper-thin, Ilford Hypam, Tinting:Selen"
+    }
+   ]
+  },
+  "ILFORD SFX 200": {
+   "fetchedAt": "2026-11-15T22:37:03.058Z",
+   "source": {
+    "kind": "search",
+    "query": "\"ILFORD SFX 200\""
+   },
+   "photos": []
+  },
+  "ILFORD XP2 Super 400": {
+   "fetchedAt": "2026-11-15T22:37:06.152Z",
+   "source": {
+    "kind": "search",
+    "query": "\"ILFORD XP2 Super 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Long way to the top - Flickr - mugley",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Long_way_to_the_top_-_Flickr_-_mugley.jpg",
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Long_way_to_the_top_-_Flickr_-_mugley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "width": 800,
+     "height": 1203,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Long_way_to_the_top_-_Flickr_-_mugley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2007-07-18"
+     ],
+     "device": "NORITSU KOKI QSS-32_33",
+     "date": "Taken on 1",
+     "author": "Jes from Melbourne, Australia",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "description": "long way to the top"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Lsps070916a (keystone cops) - Flickr - mugley",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Lsps070916a_(keystone_cops)_-_Flickr_-_mugley.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lsps070916a_%28keystone_cops%29_-_Flickr_-_mugley.jpg/960px-Lsps070916a_%28keystone_cops%29_-_Flickr_-_mugley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 536,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lsps070916a_%28keystone_cops%29_-_Flickr_-_mugley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2007-09-16"
+     ],
+     "device": "FUJI PHOTO FILM CO., LTD. SP-3000",
+     "date": "Taken on 1",
+     "author": "Jes from Melbourne, Australia",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "description": "lsps070916a (keystone cops)"
+    }
+   ]
+  },
+  "Kentmere Pan 100": {
+   "fetchedAt": "2026-11-15T22:37:09.134Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kentmere Pan 100\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Mount Dandenong Tourist Road (photo 2) - Flickr - Matthew Paul Argall",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Mount_Dandenong_Tourist_Road_(photo_2)_-_Flickr_-_Matthew_Paul_Argall.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Mount_Dandenong_Tourist_Road_%28photo_2%29_-_Flickr_-_Matthew_Paul_Argall.jpg/960px-Mount_Dandenong_Tourist_Road_%28photo_2%29_-_Flickr_-_Matthew_Paul_Argall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 536,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mount_Dandenong_Tourist_Road_%28photo_2%29_-_Flickr_-_Matthew_Paul_Argall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2019-10-02"
+     ],
+     "device": "FUJI PHOTO FILM CO., LTD. SP-3000",
+     "date": "Taken on 2",
+     "author": "Matthew Paul Argall from Australia",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Camera used: Spartus 35F Model 400 Film used: Kentmere Pan 100 Mount Dandenong, Victoria, Australia."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Bep Glasius in Stavoren",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Bep_Glasius_in_Stavoren.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bep_Glasius_in_Stavoren.jpg/960px-Bep_Glasius_in_Stavoren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bep_Glasius_in_Stavoren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Zenit 3m"
+     ],
+     "lenses": [],
+     "format": "135 film",
+     "films": [],
+     "device": "Zoran Corporation COACH",
+     "date": "2023-08-04",
+     "author": "Roepers",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "De Bep Glasius legt aan in de veerhaven van Stavoren Camera: Zenit 3m Film: Kentmere pan 100"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Some plants - Flickr - Matthew Paul Argall",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Some_plants_-_Flickr_-_Matthew_Paul_Argall.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Some_plants_-_Flickr_-_Matthew_Paul_Argall.jpg/960px-Some_plants_-_Flickr_-_Matthew_Paul_Argall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Some_plants_-_Flickr_-_Matthew_Paul_Argall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "2019-03-22"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "Taken on 2",
+     "author": "Matthew Paul Argall from Australia",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Camera used: Spartus 35F Model 400 Film used: Kentmere Pan 100 Location: Mount Dandenong, Victoria, Australia."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Desert Highway - Flickr - incidencematrix",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Desert_Highway_-_Flickr_-_incidencematrix.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Desert_Highway_-_Flickr_-_incidencematrix.jpg/960px-Desert_Highway_-_Flickr_-_incidencematrix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 574,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/Desert_Highway_-_Flickr_-_incidencematrix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Voigtländer Perkeo II"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-07-15"
+     ],
+     "device": "Perkeo II",
+     "date": "Taken on 1",
+     "author": "incidencematrix",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Shot with a Voigtländer Perkeo II 80mm f/3.5 Color-Skopar lens Kentmere Pan 100 film Shot at EI 100 Developed in Rodinal (1:50, 9:02 min, agitated each minute at 79.25F) Scanned on a Coolscan 9000"
+    }
+   ]
+  },
+  "Kentmere Pan 200": {
+   "fetchedAt": "2026-11-15T22:37:11.640Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kentmere Pan 200\""
+   },
+   "photos": []
+  },
+  "Kentmere Pan 400": {
+   "fetchedAt": "2026-11-15T22:37:14.669Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kentmere Pan 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Smögen , Rollei 35 SE - Flickr - Bernt Sønvisen",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Sm%C3%B6gen_,_Rollei_35_SE_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sm%C3%B6gen_%2C_Rollei_35_SE_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg/960px-Sm%C3%B6gen_%2C_Rollei_35_SE_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 521,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Sm%C3%B6gen_%2C_Rollei_35_SE_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2023-04-21"
+     ],
+     "device": "EPSON Perfection 3200",
+     "date": "Taken on 2",
+     "author": "Bernt Sønvisen from Oslo, Norway",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "I’m a tourist in the fishing village of Smögen on the West coast of Sweden. Rollei 35 SE with Kentmere Pan 400 film developed in Ilford ID-11 (1+1)"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Ambush Predator - Flickr - incidencematrix",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Ambush_Predator_-_Flickr_-_incidencematrix.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ambush_Predator_-_Flickr_-_incidencematrix.jpg/960px-Ambush_Predator_-_Flickr_-_incidencematrix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 769,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ambush_Predator_-_Flickr_-_incidencematrix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Voigtländer Perkeo II"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-06-07"
+     ],
+     "device": "Perkeo II",
+     "date": "Taken on 7",
+     "author": "incidencematrix",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Shot with a Voigtländer Perkeo II 80mm f/3.5 Color-Skopar lens Kentmere 400 film Shot at EI 1600 and pushed +2 Developed in HC-110 (1:31, 5:20 min, agitated each minute at 86F) Scanned on a Coolscan 9000"
+    }
+   ]
+  },
+  "Kodak Eastman UltraMax 400": {
+   "fetchedAt": "2026-11-15T22:38:02.598Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Kodak UltraMax 400 film"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "20260614 Caledonian Isles Brodick",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:20260614_Caledonian_Isles_Brodick.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/20260614_Caledonian_Isles_Brodick.jpg/960px-20260614_Caledonian_Isles_Brodick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/20260614_Caledonian_Isles_Brodick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Minolta XG-M"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": "FUJI PHOTO FILM CO., LTD. SP500",
+     "date": "Taken on 1",
+     "author": "Alex Noble",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Calmac's Caledonian Isles approaching Brodick, with Goat Fell in the background"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Pierce Transit headquarters (2026-04-07)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Pierce_Transit_headquarters_(2026-04-07).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pierce_Transit_headquarters_%282026-04-07%29.jpg/960px-Pierce_Transit_headquarters_%282026-04-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 531,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pierce_Transit_headquarters_%282026-04-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Nikon FM"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "2026-04-07",
+     "author": "Dudhhr",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "w:Pierce Transit 's headquarters in w:Lakewood, Washington , on 7 April 2026. Shot using a w:Nikon FM with 24-120mm lens on expired Kodak 400 film and digitally colour-corrected."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Cinemagic marquee-portland oregon june 17 2025",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Cinemagic_marquee-portland_oregon_june_17_2025.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Cinemagic_marquee-portland_oregon_june_17_2025.jpg/960px-Cinemagic_marquee-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 538,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cinemagic_marquee-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon AV-1"
+     ],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2025-06-17",
+     "author": "Sterling Dudley",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "description": "I took this on my trip to Portland in June 2025. It was taken with a Canon AV-1 film camera using a 60-200mm variable lens and Kodak Ultramax 400 film stock. Scanned myself."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Moon Locking Pavilion at Lan Su Chinese Garden-portland oregon june 17 2025",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg/960px-Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1204,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon AV-1"
+     ],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2025-06-17",
+     "author": "Sterling Dudley",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "description": "I took this on my trip to Portland in June 2025. It was taken with a Canon AV-1 film camera using a 60-200mm variable lens and Kodak Ultramax 400 film stock. Scanned myself."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "MSX FS-A1WX, Seattle, 2023-09-30",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:MSX_FS-A1WX,_Seattle,_2023-09-30.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/MSX_FS-A1WX%2C_Seattle%2C_2023-09-30.jpg/960px-MSX_FS-A1WX%2C_Seattle%2C_2023-09-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/MSX_FS-A1WX%2C_Seattle%2C_2023-09-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [
+      "AF Nikkor 50mm f/1.4D",
+      "Nikon F75"
+     ],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "2023-09-30",
+     "author": "Sleeps-Darkly",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Panasonic FS-A1WX, a MSX2+ format computer"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Ambassador Car by Hindustan Motors",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Ambassador_Car_by_Hindustan_Motors.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ambassador_Car_by_Hindustan_Motors.tif/lossy-page1-960px-Ambassador_Car_by_Hindustan_Motors.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ambassador_Car_by_Hindustan_Motors.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-21",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Ambassador Car by Hindustan Motors. his photograph is uploaded to demonstrate the Non-Lomographic use of Lomo LC-A+ as quoted in the below site of Lomography. https://www.lomography.com/magazine/172184-the-non-lomographic-use-of-my-lomo-lc-a"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "The High Court of Lucknow - Gomti Nagar",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:The_High_Court_of_Lucknow_-_Gomti_Nagar.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/The_High_Court_of_Lucknow_-_Gomti_Nagar.tif/lossy-page1-960px-The_High_Court_of_Lucknow_-_Gomti_Nagar.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_High_Court_of_Lucknow_-_Gomti_Nagar.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-21",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "The Hight Court of Lucknow - Gomti Nagar. his photograph is uploaded to demonstrate the Non-Lomographic use of Lomo LC-A+ as quoted in the below site of Lomography. https://www.lomography.com/magazine/172184-the-non-lomographic-use-of-my-lomo-lc-a"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "White Deer at Indroda",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:White_Deer_at_Indroda.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/White_Deer_at_Indroda.tif/lossy-page1-960px-White_Deer_at_Indroda.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/White_Deer_at_Indroda.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "White Deer at Indroda"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "White Peacock at Indroda",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:White_Peacock_at_Indroda.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/White_Peacock_at_Indroda.tif/lossy-page1-960px-White_Peacock_at_Indroda.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/3b/White_Peacock_at_Indroda.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "White Peacock at Indorda"
+    }
+   ]
+  },
+  "Kodak Ektacolor Pro 160": {
+   "fetchedAt": "2026-11-15T22:38:04.070Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Ektacolor Pro 160\""
+   },
+   "photos": []
+  },
+  "Kodak Ektacolor Pro 400": {
+   "fetchedAt": "2026-11-15T22:38:05.592Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Ektacolor Pro 400\""
+   },
+   "photos": []
+  },
+  "Kodak Ektacolor Pro 800": {
+   "fetchedAt": "2026-11-15T22:38:07.111Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Ektacolor Pro 800\""
+   },
+   "photos": []
+  },
+  "Kodak Ektapan 400": {
+   "fetchedAt": "2026-11-15T22:38:08.574Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Ektapan 400\""
+   },
+   "photos": []
+  },
+  "Kodak Ektapan P3200": {
+   "fetchedAt": "2026-11-15T22:38:10.078Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Ektapan P3200\""
+   },
+   "photos": []
+  },
+  "Kodak Ektar 100": {
+   "fetchedAt": "2026-11-15T22:38:13.308Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Kodak Ektar 100 film"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "20261022 60096 North Seaton Viaduct",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:20261022_60096_North_Seaton_Viaduct.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/20261022_60096_North_Seaton_Viaduct.jpg/960px-20261022_60096_North_Seaton_Viaduct.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/20261022_60096_North_Seaton_Viaduct.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon A-1"
+     ],
+     "lenses": [
+      "Canon FD 50mm F1.4"
+     ],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "Taken on 2",
+     "author": "Alex Noble",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "GBRf's 60096, still in Colas livery, on 6N22, the 13:56 Port of Tyne to Lynemouth biomass train."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "20261016 60026 Blea Moor",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:20261016_60026_Blea_Moor.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/20261016_60026_Blea_Moor.jpg/960px-20261016_60026_Blea_Moor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/20261016_60026_Blea_Moor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon A-1"
+     ],
+     "lenses": [
+      "Canon FD 50mm F1.4"
+     ],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "Taken on 1",
+     "author": "Alex Noble",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "GBRf 60026 leaving the loop at Blea Moor, after running round working 6J84, a Heidelberg Aggregates train from Horton Quarry to Brindle Heath, Salford"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "20261022 North Seaton Viaduct",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:20261022_North_Seaton_Viaduct.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/20261022_North_Seaton_Viaduct.jpg/960px-20261022_North_Seaton_Viaduct.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/20261022_North_Seaton_Viaduct.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon A-1"
+     ],
+     "lenses": [
+      "Canon FD 50mm F1.4"
+     ],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "Taken on 2",
+     "author": "Alex Noble",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "The North Seaton viaduct, over the River Wansbeck"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Phare de Vallauris, 2025",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Phare_de_Vallauris,_2025.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Phare_de_Vallauris%2C_2025.jpg/960px-Phare_de_Vallauris%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1201,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Phare_de_Vallauris%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [
+      "Nikon F90"
+     ],
+     "format": "135 film",
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": "NIKON F90",
+     "date": "2025",
+     "author": "Albgr03",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Le phare de Vallauris"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Turnul-clopotniță al Bisericii Bărboi din Iași",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Turnul-clopotni%C8%9B%C4%83_al_Bisericii_B%C4%83rboi_din_Ia%C8%99i.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Turnul-clopotni%C8%9B%C4%83_al_Bisericii_B%C4%83rboi_din_Ia%C8%99i.jpg/960px-Turnul-clopotni%C8%9B%C4%83_al_Bisericii_B%C4%83rboi_din_Ia%C8%99i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 814,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Turnul-clopotni%C8%9B%C4%83_al_Bisericii_B%C4%83rboi_din_Ia%C8%99i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": "120 film",
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "2018-11-30",
+     "author": "Teodosius7",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": ".mw-parser-output .monument-istoric{width:400px;max-width:100%;margin:1px;padding:2px;background-color:#800000;color:#fff;text-align:initial;font-size:0.75em;line-height:1.1em}.mw-parser-output .monument-istoric td:first-child{width:26px;height:26px}.mw-parser-output .monument-is"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "American Airlines N917NN and Skylink People Mover at DFW",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:American_Airlines_N917NN_and_Skylink_People_Mover_at_DFW.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/American_Airlines_N917NN_and_Skylink_People_Mover_at_DFW.jpg/960px-American_Airlines_N917NN_and_Skylink_People_Mover_at_DFW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/American_Airlines_N917NN_and_Skylink_People_Mover_at_DFW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "2024-06-23",
+     "author": "Moki8",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Photo of American Airlines Boeing 737-823 N917NN in Air Cal heritage livery at the Dallas Fort Worth International Airport terminal D, with a DFW Skylink people mover car on the track behind it. Shot on Canon EOS 650 with Kodak Ektar 100."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "The Dining Pavilion at the Woodfield Mall - Viewing Area",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Dining_Pavilion_at_the_Woodfield_Mall_-_Viewing_Area.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Dining_Pavilion_at_the_Woodfield_Mall_-_Viewing_Area.jpg/960px-The_Dining_Pavilion_at_the_Woodfield_Mall_-_Viewing_Area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1117,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Dining_Pavilion_at_the_Woodfield_Mall_-_Viewing_Area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Minolta X-700"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-07-17",
+      "Kodak Ektar 100 film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "2024-07-17",
+     "author": "Alaprine",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "A partial view of the farthest usable section of the Dining Pavilion at the Woodfield Mall, which opened in 2017. A prominent glass wall (right) offers diners a northeasterly view of the mall parking lot and various adjacent structures."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Rust detail, South Lynn bridge",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Rust_detail,_South_Lynn_bridge.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Rust_detail%2C_South_Lynn_bridge.jpg/960px-Rust_detail%2C_South_Lynn_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 784,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rust_detail%2C_South_Lynn_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": "AgfaPhoto GmbH d-lab.2/3",
+     "date": "2010",
+     "author": "Lewis Collard",
+     "license": "Attribution",
+     "licenseUrl": null,
+     "description": "Detail of rust on the bridge at South Lynn carrying the former Harbour Junction to South Lynn branch line. Shot with a Kiev 88 and Arsat 80mm f/2.8 shooting Kodak Ektar 100, 1/60 at f/11."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Fence tree and ivy, Watlington",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Fence_tree_and_ivy,_Watlington.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fence_tree_and_ivy%2C_Watlington.jpg/960px-Fence_tree_and_ivy%2C_Watlington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 704,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Fence_tree_and_ivy%2C_Watlington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": "AgfaPhoto GmbH d-lab.2/3",
+     "date": "2010",
+     "author": "Lewis Collard",
+     "license": "Attribution",
+     "licenseUrl": null,
+     "description": "A fence, a tree, and a lot of ivy next to Church Road in Watlington, Norfolk. Shot with a Kiev 88 TTL and probably the Mir-26 45mm f/3.5 shooting Kodak Ektar 100."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Customs House in the dark, 2009 ish",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Customs_House_in_the_dark,_2009_ish.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Customs_House_in_the_dark%2C_2009_ish.jpg/960px-Customs_House_in_the_dark%2C_2009_ish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1198,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Customs_House_in_the_dark%2C_2009_ish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon A-1"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "November 2",
+     "author": "Lewis Collard",
+     "license": "Attribution",
+     "licenseUrl": null,
+     "description": "The Old Customs House at King's Lynn, photographed in the late evening in Winter. Photographed with a Canon A-1 shooting Kodak Ektar 100, Canon FD 28mm f/2.8, 20 seconds at f/9.5"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Guard writing, carriage, Mid Norfolk Railway",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Guard_writing,_carriage,_Mid_Norfolk_Railway.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Guard_writing%2C_carriage%2C_Mid_Norfolk_Railway.jpg/960px-Guard_writing%2C_carriage%2C_Mid_Norfolk_Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 534,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Guard_writing%2C_carriage%2C_Mid_Norfolk_Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "2010-07-24",
+     "author": "Lewis Collard",
+     "license": "Attribution",
+     "licenseUrl": null,
+     "description": "\"Guard\" written on a carriage (probably on the door) of a carriage at the Mid-Norfolk Railway. Shot with a Praktica MTL3 and Pentacon 50mm f/1.8 shooting Kodak Ektar 100, push-processed to 400."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Suitcases at Dereham, Mid-Norfolk Railway",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Suitcases_at_Dereham,_Mid-Norfolk_Railway.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Suitcases_at_Dereham%2C_Mid-Norfolk_Railway.jpg/960px-Suitcases_at_Dereham%2C_Mid-Norfolk_Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Suitcases_at_Dereham%2C_Mid-Norfolk_Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Ektar 100 film"
+     ],
+     "device": null,
+     "date": "2010-07-24",
+     "author": "Lewis Collard",
+     "license": "Attribution",
+     "licenseUrl": null,
+     "description": "Old suitcases on the platforms on the Mid Norfolk Railway. Taken with a Praktica MTL3 and Pentacon 50mm f/1.8 shooting Kodak Ektar 100, pushed to ASA 400."
+    }
+   ]
+  },
+  "Kodak Gold 200": {
+   "fetchedAt": "2026-11-15T22:39:01.107Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Kodak Gold 200 film"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Solar eclipse of 1999 August 11 in Austria 08",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_of_1999_August_11_in_Austria_08.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Solar_eclipse_of_1999_August_11_in_Austria_08.jpg/960px-Solar_eclipse_of_1999_August_11_in_Austria_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 537,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/Solar_eclipse_of_1999_August_11_in_Austria_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": "Canon CanoScan 9000F",
+     "date": "2026-08-14",
+     "author": "Nxr-at",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Solar eclipse of 1999 August 11 in Austria Kodak Gold 200-6 ASA"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Solar eclipse of 1999 August 11 in Austria 06",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_of_1999_August_11_in_Austria_06.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Solar_eclipse_of_1999_August_11_in_Austria_06.jpg/960px-Solar_eclipse_of_1999_August_11_in_Austria_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 543,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Solar_eclipse_of_1999_August_11_in_Austria_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": "Canon CanoScan 9000F",
+     "date": "2026-08-14",
+     "author": "Nxr-at",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Solar eclipse of 1999 August 11 in Austria Kodak Gold 200-6 ASA"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Solar eclipse of 1999 August 11 in Austria 03",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_of_1999_August_11_in_Austria_03.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Solar_eclipse_of_1999_August_11_in_Austria_03.jpg/960px-Solar_eclipse_of_1999_August_11_in_Austria_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 558,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/Solar_eclipse_of_1999_August_11_in_Austria_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": "Canon CanoScan 9000F",
+     "date": "2026-08-14",
+     "author": "Nxr-at",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Solar eclipse of 1999 August 11 in Austria Kodak Gold 200-6 ASA"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Solar eclipse of 1999 August 11 in Austria 01",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_of_1999_August_11_in_Austria_01.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Solar_eclipse_of_1999_August_11_in_Austria_01.jpg/960px-Solar_eclipse_of_1999_August_11_in_Austria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 581,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Solar_eclipse_of_1999_August_11_in_Austria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": "Canon CanoScan 9000F",
+     "date": "2026-08-14",
+     "author": "Nxr-at",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Solar eclipse of 1999 August 11 in Austria Kodak Gold 200-6 ASA"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "202605xx Prinz-Carl-Palais Muenchen",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:202605xx_Prinz-Carl-Palais_Muenchen.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/202605xx_Prinz-Carl-Palais_Muenchen.jpg/960px-202605xx_Prinz-Carl-Palais_Muenchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/202605xx_Prinz-Carl-Palais_Muenchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon FTb"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": null,
+     "author": "Alex Noble",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "The Prinz-Carl-Palais, Munich. Taken sometime in May 2026, on a Canon FTb using Kodak Gold 200 35mm film."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "1992 Sudeley Castle Mulberry Garden and Lawn Gloucestershire, England",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:1992_Sudeley_Castle_Mulberry_Garden_and_Lawn_Gloucestershire,_England.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/1992_Sudeley_Castle_Mulberry_Garden_and_Lawn_Gloucestershire%2C_England.jpg/960px-1992_Sudeley_Castle_Mulberry_Garden_and_Lawn_Gloucestershire%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 531,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1992_Sudeley_Castle_Mulberry_Garden_and_Lawn_Gloucestershire%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2015-10-27",
+      "Kodak Gold 200 film"
+     ],
+     "device": "EPSON Perfection V800",
+     "date": "1992",
+     "author": "Acabashi",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "1992 Spring photograph of the Mulberry Garden and lawn and, at the right, the ruins of the mid-15th century castle, at the Grade I listed Sudeley Castle , near Winchcombe , Gloucestershire , England. Processing : Analogue camera with Kodak Gold ASA 200-2 film. Negative scanned wi"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Nuart Theatre Marquee",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Nuart_Theatre_Marquee.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuart_Theatre_Marquee.jpg/960px-Nuart_Theatre_Marquee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nuart_Theatre_Marquee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": null,
+     "date": "2026-01-31",
+     "author": "S. Dudley",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "I took this on a Canon Owl PureShot point and shoot before seeing The Rocky Horror Picture Show here."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Finneas (February 16, 2025)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Finneas_(February_16,_2025).jpg",
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Finneas_%28February_16%2C_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "width": 800,
+     "height": 1237,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Finneas_%28February_16%2C_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon AV-1"
+     ],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": null,
+     "date": "2025-02-16",
+     "author": "S. Dudley",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "description": "I took this photo in Raleigh during his For Cryin' Out Loud Tour. My girlfriend and I ran into him on the street. He was very kind and we are so appreciative for the photo. Posting online to share freely with others!"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Marco Geodesico da America do Sul Cuiabá Holga 120N Kodak Gold 200 2024-3",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-3.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-3.jpg/960px-Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 788,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Holga 120N"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": null,
+     "date": "2024-04-13",
+     "author": "Prburley",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Marco Geodesico da America do Sul, Cuiabá, Mato Grosso, Brasil. Camera: Holga 120N. Film: Kodak Gold 200. Cultural property Marco Geodesico da America do Sul , Centro Sul, Cuiabá , Mato Grosso , Brazil Q108220394 , iPatrimônio ID: cuiaba-marco-geodesico-da-america-do-sul"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Marco Geodesico da America do Sul Cuiabá Holga 120N Kodak Gold 200 2024-2",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-2.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-2.jpg/960px-Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 812,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Holga 120N"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": null,
+     "date": "2024-04-13",
+     "author": "Prburley",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Marco Geodesico da America do Sul, Cuiabá, Mato Grosso, Brasil. Camera: Holga 120N. Film: Kodak Gold 200. Cultural property Marco Geodesico da America do Sul , Centro Sul, Cuiabá , Mato Grosso , Brazil Q108220394 , iPatrimônio ID: cuiaba-marco-geodesico-da-america-do-sul"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Marco Geodesico da America do Sul Cuiabá Holga 120N Kodak Gold 200 2024-0",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-0.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-0.jpg/960px-Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 788,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Holga 120N"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": null,
+     "date": "2024-04-13",
+     "author": "Prburley",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Marco Geodesico da America do Sul, Cuiabá, Mato Grosso, Brasil. Camera: Holga 120N. Film: Kodak Gold 200. Cultural property Marco Geodesico da America do Sul , Centro Sul, Cuiabá , Mato Grosso , Brazil Q108220394 , iPatrimônio ID: cuiaba-marco-geodesico-da-america-do-sul"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Marco Geodesico da America do Sul Cuiabá Holga 120N Kodak Gold 200 2024-1",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-1.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-1.jpg/960px-Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 788,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Marco_Geodesico_da_America_do_Sul_Cuiab%C3%A1_Holga_120N_Kodak_Gold_200_2024-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Holga 120N"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak Gold 200 film"
+     ],
+     "device": null,
+     "date": "2024-04-13",
+     "author": "Prburley",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Marco Geodesico da America do Sul, Cuiabá, Mato Grosso, Brasil. Camera: Holga 120N. Film: Kodak Gold 200. Cultural property Marco Geodesico da America do Sul , Centro Sul, Cuiabá , Mato Grosso , Brazil Q108220394 , iPatrimônio ID: cuiaba-marco-geodesico-da-america-do-sul"
+    }
+   ]
+  },
+  "Kodak Kodacolor 100": {
+   "fetchedAt": "2026-11-15T22:39:02.612Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Kodacolor 100\""
+   },
+   "photos": []
+  },
+  "Kodak Kodacolor 200": {
+   "fetchedAt": "2026-11-15T22:39:05.571Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Kodacolor 200"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "A lamp post at City Palace, Udaipur City, Rajasthan State, India",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:A_lamp_post_at_City_Palace,_Udaipur_City,_Rajasthan_State,_India.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/A_lamp_post_at_City_Palace%2C_Udaipur_City%2C_Rajasthan_State%2C_India.jpg/960px-A_lamp_post_at_City_Palace%2C_Udaipur_City%2C_Rajasthan_State%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 569,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/ad/A_lamp_post_at_City_Palace%2C_Udaipur_City%2C_Rajasthan_State%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodacolor 200"
+     ],
+     "device": "Lomography Cosina CT-1A",
+     "date": "2018-12-20",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "A lamp post at City Palace, Udaipur City, Rajasthan State, India"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "The statue of Devi Lal Samar at the entrance of Bharatiya Lok Kala Mandal (Indian Public Society for Arts) in Udaipur City, Rajasthan State, India",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:The_statue_of_Devi_Lal_Samar_at_the_entrance_of_Bharatiya_Lok_Kala_Mandal_(Indian_Public_Society_for_Arts)_in_Udaipur_City,_Rajasthan_State,_India.jpg",
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_statue_of_Devi_Lal_Samar_at_the_entrance_of_Bharatiya_Lok_Kala_Mandal_%28Indian_Public_Society_for_Arts%29_in_Udaipur_City%2C_Rajasthan_State%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "width": 800,
+     "height": 1167,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_statue_of_Devi_Lal_Samar_at_the_entrance_of_Bharatiya_Lok_Kala_Mandal_%28Indian_Public_Society_for_Arts%29_in_Udaipur_City%2C_Rajasthan_State%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodacolor 200"
+     ],
+     "device": "Lomography Lomo LC-A",
+     "date": "2019-03-30",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Devilal Samar (born 1912) was the founder-director of a folk-theatre museum called the Bharatiya Lok Kala Mandal in Udaipur in Rajasthan in India"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Blue Sky - City Palace - Udaipur",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Blue_Sky_-_City_Palace_-_Udaipur.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Blue_Sky_-_City_Palace_-_Udaipur.jpg/960px-Blue_Sky_-_City_Palace_-_Udaipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 549,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Blue_Sky_-_City_Palace_-_Udaipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodacolor 200"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "2018-10-27",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "The user has wound a 35mm roll of Kodacolor 200 to redscale by himself and experimented how Blue Sky appears on it. The profound effect of Vignetting (darkening of corners) can be seen in this lomograph, and the sky shows a subdued hue of blue (because sensitivity of a redscale f"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Puppets at City Palace, Udaipur, Rajasthan",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Puppets_at_City_Palace,_Udaipur,_Rajasthan.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Puppets_at_City_Palace%2C_Udaipur%2C_Rajasthan.jpg/960px-Puppets_at_City_Palace%2C_Udaipur%2C_Rajasthan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 553,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Puppets_at_City_Palace%2C_Udaipur%2C_Rajasthan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodacolor 200"
+     ],
+     "device": "Lomography LOMO LC-A+",
+     "date": "2018-10-27",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "These puppets at a store for sale, were shot with a Lomo LC-A+, on Kodacolor 200. The user has flipped the sides of a regular 35mm color film roll and loaded on to the camera to shoot in redscale."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Camels at Fateh Sagar - Lomo LCA plus - Kodacolor 200",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Camels_at_Fateh_Sagar_-_Lomo_LCA_plus_-_Kodacolor_200.jpg",
+     "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/70/Camels_at_Fateh_Sagar_-_Lomo_LCA_plus_-_Kodacolor_200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "width": 800,
+     "height": 543,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/Camels_at_Fateh_Sagar_-_Lomo_LCA_plus_-_Kodacolor_200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodacolor 200"
+     ],
+     "device": "Lomography Lomo LC-A+",
+     "date": "2018-11-12",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Camels at Fateh Sagar. The backlighting is the sunset. The user has wound a normal 35mm roll of Kodacolor 200 by himself to a redscale film. Since the sensitivity of the film decreases when redscaled, it is overexposed. (Exposed at ISO 100 of Lomo LC-A+ camera.) The image flipped"
+    }
+   ]
+  },
+  "Kodak Professional Ektachrome E100": {
+   "fetchedAt": "2026-11-15T22:39:09.473Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Ektachrome E100\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Texas Pride Barbecue, Adkins, Texas (2024) - Flickr - coolanimeboy25",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Texas_Pride_Barbecue,_Adkins,_Texas_(2024)_-_Flickr_-_coolanimeboy25.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Texas_Pride_Barbecue%2C_Adkins%2C_Texas_%282024%29_-_Flickr_-_coolanimeboy25.jpg/960px-Texas_Pride_Barbecue%2C_Adkins%2C_Texas_%282024%29_-_Flickr_-_coolanimeboy25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 511,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Texas_Pride_Barbecue%2C_Adkins%2C_Texas_%282024%29_-_Flickr_-_coolanimeboy25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-09-08"
+     ],
+     "device": null,
+     "date": "Taken on 8",
+     "author": "coolanimeboy25",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Texas Pride Barbecue is known for having vintage items inside the restaurant and it hosts live music. This is the front view of the restaurant. Camera: Canon F-1 Film: Kodak Ektachrome E100"
+    }
+   ]
+  },
+  "Kodak Professional T-Max 100": {
+   "fetchedAt": "2026-11-15T22:39:11.763Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Kodak T-MAX 100 films"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Turtle in Aquarium, Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Turtle_in_Aquarium,_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Turtle_in_Aquarium%2C_Kankaria.tif/lossy-page1-960px-Turtle_in_Aquarium%2C_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Turtle_in_Aquarium%2C_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Turtle in Aquarium, Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Tiger in Kamla Nehru Zoo, Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Tiger_in_Kamla_Nehru_Zoo,_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tiger_in_Kamla_Nehru_Zoo%2C_Kankaria.tif/lossy-page1-960px-Tiger_in_Kamla_Nehru_Zoo%2C_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tiger_in_Kamla_Nehru_Zoo%2C_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Tiger in Kamla Nehru Zoo, Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Butterfly Park at Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Butterfly_Park_at_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Butterfly_Park_at_Kankaria.tif/lossy-page1-960px-Butterfly_Park_at_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Butterfly_Park_at_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Butterfl Park at Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Spotted Deer",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Spotted_Deer.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Spotted_Deer.tif/lossy-page1-960px-Spotted_Deer.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/Spotted_Deer.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Spotted Deer in Kamla Nehru Zoological Park, Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Bats in the Butterfly Park Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Bats_in_the_Butterfly_Park_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bats_in_the_Butterfly_Park_Kankaria.tif/lossy-page1-960px-Bats_in_the_Butterfly_Park_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bats_in_the_Butterfly_Park_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Bats in the Butterfly Park Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "A Statue in the fountain in the Butterfly Park, Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:A_Statue_in_the_fountain_in_the_Butterfly_Park,_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/A_Statue_in_the_fountain_in_the_Butterfly_Park%2C_Kankaria.tif/lossy-page1-960px-A_Statue_in_the_fountain_in_the_Butterfly_Park%2C_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/A_Statue_in_the_fountain_in_the_Butterfly_Park%2C_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "A Statue in the fountain in the Butterfly Park, Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Aquarium at Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Aquarium_at_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Aquarium_at_Kankaria.tif/lossy-page1-960px-Aquarium_at_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Aquarium_at_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Aquarium at Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "A fish at the Aquarium, Kankaria Lake",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:A_fish_at_the_Aquarium,_Kankaria_Lake.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/A_fish_at_the_Aquarium%2C_Kankaria_Lake.tif/lossy-page1-960px-A_fish_at_the_Aquarium%2C_Kankaria_Lake.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/A_fish_at_the_Aquarium%2C_Kankaria_Lake.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "A fish at the Aquarium, Kankaria Lake"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "A large nosed fish in the aquarium, Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:A_large_nosed_fish_in_the_aquarium,_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/A_large_nosed_fish_in_the_aquarium%2C_Kankaria.tif/lossy-page1-960px-A_large_nosed_fish_in_the_aquarium%2C_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/A_large_nosed_fish_in_the_aquarium%2C_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "A large nosed fish in the aquarium, Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "A long nosed fish in the aquarium, Kankaria",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:A_long_nosed_fish_in_the_aquarium,_Kankaria.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/A_long_nosed_fish_in_the_aquarium%2C_Kankaria.tif/lossy-page1-960px-A_long_nosed_fish_in_the_aquarium%2C_Kankaria.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/A_long_nosed_fish_in_the_aquarium%2C_Kankaria.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "A long nosed fish in the aquarium, Kankaria"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "White Tiger at Kankaria Lake",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:White_Tiger_at_Kankaria_Lake.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/White_Tiger_at_Kankaria_Lake.tif/lossy-page1-960px-White_Tiger_at_Kankaria_Lake.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/White_Tiger_at_Kankaria_Lake.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": null,
+     "date": "2018-08-29",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "White Tiger at Kankaria Lake"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Elementary schoolkids in Kyoto, Japan; October 2015",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Elementary_schoolkids_in_Kyoto,_Japan;_October_2015.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Elementary_schoolkids_in_Kyoto%2C_Japan%3B_October_2015.jpg/960px-Elementary_schoolkids_in_Kyoto%2C_Japan%3B_October_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Elementary_schoolkids_in_Kyoto%2C_Japan%3B_October_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak T-MAX 100 films"
+     ],
+     "device": "NORITSU KOKI QSS-32_33",
+     "date": "2015-10-30",
+     "author": "Toomore Chiang from Taipei, Taiwan",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Elementary schoolkids in Kyoto, Japan, in monochrome."
+    }
+   ]
+  },
+  "Kodak Professional Tri-X 400": {
+   "fetchedAt": "2026-11-15T22:39:14.761Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Kodak TRI-X film"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "The man with the cigar (50285456987)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:The_man_with_the_cigar_(50285456987).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/The_man_with_the_cigar_%2850285456987%29.jpg/960px-The_man_with_the_cigar_%2850285456987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 558,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/The_man_with_the_cigar_%2850285456987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M6"
+     ],
+     "lenses": [
+      "Leica Summarit-M 35"
+     ],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2020-08-30",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Leica M6 + Summarit 35mm f2.4 + TriX"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Film noir (50286516562)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Film_noir_(50286516562).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Film_noir_%2850286516562%29.jpg/960px-Film_noir_%2850286516562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1146,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Film_noir_%2850286516562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M6"
+     ],
+     "lenses": [
+      "Leica Summarit-M 35"
+     ],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2020-08-30",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Leica M6 + Summarit 35mm f2.4 + TriX"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Canal Saint-Martin (50285419512)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Canal_Saint-Martin_(50285419512).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Canal_Saint-Martin_%2850285419512%29.jpg/960px-Canal_Saint-Martin_%2850285419512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 558,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Canal_Saint-Martin_%2850285419512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M6"
+     ],
+     "lenses": [
+      "Leica Summarit-M 35"
+     ],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2020-08-30",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Leica M6 + Summarit 35mm f2.5 + TriX"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Shadow Catcher (24696066438)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Shadow_Catcher_(24696066438).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Shadow_Catcher_%2824696066438%29.jpg/960px-Shadow_Catcher_%2824696066438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 535,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shadow_Catcher_%2824696066438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M6"
+     ],
+     "lenses": [
+      "Leica Summarit-M 35"
+     ],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2017-11-21",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Un monde de plis (Simone Pheulpin), Chapelle Expiatoire Leica M6 + Summarit 35mm f2.5 + triX"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Place for escape (50118490103)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Place_for_escape_(50118490103).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Place_for_escape_%2850118490103%29.jpg/960px-Place_for_escape_%2850118490103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 534,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/20/Place_for_escape_%2850118490103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M6"
+     ],
+     "lenses": [
+      "Leica Summarit-M 35"
+     ],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2020-07-16",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Leica M6 + Summarit 35mm f2.5 + TX400"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "La petite ceinture à Menilmontant, oui, c'est en plein Paris ! (47924363828)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:La_petite_ceinture_%C3%A0_Menilmontant,_oui,_c%27est_en_plein_Paris_!_(47924363828).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/La_petite_ceinture_%C3%A0_Menilmontant%2C_oui%2C_c%27est_en_plein_Paris_%21_%2847924363828%29.jpg/960px-La_petite_ceinture_%C3%A0_Menilmontant%2C_oui%2C_c%27est_en_plein_Paris_%21_%2847924363828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 537,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_petite_ceinture_%C3%A0_Menilmontant%2C_oui%2C_c%27est_en_plein_Paris_%21_%2847924363828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2019-05-24",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Nikon F801 + 24mm f2.8 af + TX400"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "What do you think of her pace? (46575193405)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:What_do_you_think_of_her_pace%3F_(46575193405).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/What_do_you_think_of_her_pace%3F_%2846575193405%29.jpg/960px-What_do_you_think_of_her_pace%3F_%2846575193405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 560,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/46/What_do_you_think_of_her_pace%3F_%2846575193405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2019-03-28",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Leica M6 + Voigtländer Color Skopar 21mm + TX400 + Canoscan 9000F"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Élève des Beaux-Arts (32635754317)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:%C3%89l%C3%A8ve_des_Beaux-Arts_(32635754317).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%C3%89l%C3%A8ve_des_Beaux-Arts_%2832635754317%29.jpg/960px-%C3%89l%C3%A8ve_des_Beaux-Arts_%2832635754317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 537,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9f/%C3%89l%C3%A8ve_des_Beaux-Arts_%2832635754317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M6"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2019-04-10",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Under the attentive eye of the Master Leica M6 + Voigtländer Color Skopar 21mm + TX400"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Reflection on the 21st century lifestyle (46572266635)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Reflection_on_the_21st_century_lifestyle_(46572266635).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Reflection_on_the_21st_century_lifestyle_%2846572266635%29.jpg/960px-Reflection_on_the_21st_century_lifestyle_%2846572266635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 562,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Reflection_on_the_21st_century_lifestyle_%2846572266635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2019-03-28",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Musée Rodin - Paris - Leica M6 + Voigtländer Color Skopar 21mm + TX400"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Paris under the snow (50115280463)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Paris_under_the_snow_(50115280463).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Paris_under_the_snow_%2850115280463%29.jpg/960px-Paris_under_the_snow_%2850115280463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Paris_under_the_snow_%2850115280463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M6"
+     ],
+     "lenses": [
+      "Leica Summarit-M 35"
+     ],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2020-07-15",
+     "author": "madras91",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Leica M6 + Summarit 35mm f2.5 + TX400"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Gateway in Woods - Flickr - kinglear55",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Gateway_in_Woods_-_Flickr_-_kinglear55.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Gateway_in_Woods_-_Flickr_-_kinglear55.jpg/960px-Gateway_in_Woods_-_Flickr_-_kinglear55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 521,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gateway_in_Woods_-_Flickr_-_kinglear55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2021-02-01",
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "Taken on 1",
+     "author": "kinglear55",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Photo taken June 21, 2016 on Kodak TX400 film with an Olympus OM-10 camera, 35-135mm Tamron lens and yellow filter. Image was post processed with Microsoft Digital Image Suite. Negative was developed and scanned by Dan's Camera in Allentown, PA."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Scottish Rite Temple Lummus Park Miami (8634659316)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Rite_Temple_Lummus_Park_Miami_(8634659316).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Scottish_Rite_Temple_Lummus_Park_Miami_%288634659316%29.jpg/960px-Scottish_Rite_Temple_Lummus_Park_Miami_%288634659316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 531,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Scottish_Rite_Temple_Lummus_Park_Miami_%288634659316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak TRI-X film"
+     ],
+     "device": null,
+     "date": "2013-04-09",
+     "author": "Phillip Pessar from Miami, USA",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Minolta Freedom Dual camera and Kodak black and white TX400 film."
+    }
+   ]
+  },
+  "Kodak UltraMax 400": {
+   "fetchedAt": "2026-11-15T22:40:02.537Z",
+   "source": {
+    "kind": "category",
+    "title": "Category:Photographs taken on Kodak UltraMax 400 film"
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "20260614 Caledonian Isles Brodick",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:20260614_Caledonian_Isles_Brodick.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/20260614_Caledonian_Isles_Brodick.jpg/960px-20260614_Caledonian_Isles_Brodick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/20260614_Caledonian_Isles_Brodick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Minolta XG-M"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": "FUJI PHOTO FILM CO., LTD. SP500",
+     "date": "Taken on 1",
+     "author": "Alex Noble",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "Calmac's Caledonian Isles approaching Brodick, with Goat Fell in the background"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Pierce Transit headquarters (2026-04-07)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Pierce_Transit_headquarters_(2026-04-07).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pierce_Transit_headquarters_%282026-04-07%29.jpg/960px-Pierce_Transit_headquarters_%282026-04-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 531,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pierce_Transit_headquarters_%282026-04-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Nikon FM"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "2026-04-07",
+     "author": "Dudhhr",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "w:Pierce Transit 's headquarters in w:Lakewood, Washington , on 7 April 2026. Shot using a w:Nikon FM with 24-120mm lens on expired Kodak 400 film and digitally colour-corrected."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Cinemagic marquee-portland oregon june 17 2025",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Cinemagic_marquee-portland_oregon_june_17_2025.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Cinemagic_marquee-portland_oregon_june_17_2025.jpg/960px-Cinemagic_marquee-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 538,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cinemagic_marquee-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon AV-1"
+     ],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2025-06-17",
+     "author": "Sterling Dudley",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "description": "I took this on my trip to Portland in June 2025. It was taken with a Canon AV-1 film camera using a 60-200mm variable lens and Kodak Ultramax 400 film stock. Scanned myself."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Moon Locking Pavilion at Lan Su Chinese Garden-portland oregon june 17 2025",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg/960px-Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1204,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Moon_Locking_Pavilion_at_Lan_Su_Chinese_Garden-portland_oregon_june_17_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Canon AV-1"
+     ],
+     "lenses": [
+      "35mm film"
+     ],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2025-06-17",
+     "author": "Sterling Dudley",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "description": "I took this on my trip to Portland in June 2025. It was taken with a Canon AV-1 film camera using a 60-200mm variable lens and Kodak Ultramax 400 film stock. Scanned myself."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "MSX FS-A1WX, Seattle, 2023-09-30",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:MSX_FS-A1WX,_Seattle,_2023-09-30.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/MSX_FS-A1WX%2C_Seattle%2C_2023-09-30.jpg/960px-MSX_FS-A1WX%2C_Seattle%2C_2023-09-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/MSX_FS-A1WX%2C_Seattle%2C_2023-09-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [
+      "AF Nikkor 50mm f/1.4D",
+      "Nikon F75"
+     ],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "2023-09-30",
+     "author": "Sleeps-Darkly",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Panasonic FS-A1WX, a MSX2+ format computer"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Ambassador Car by Hindustan Motors",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Ambassador_Car_by_Hindustan_Motors.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ambassador_Car_by_Hindustan_Motors.tif/lossy-page1-960px-Ambassador_Car_by_Hindustan_Motors.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ambassador_Car_by_Hindustan_Motors.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-21",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Ambassador Car by Hindustan Motors. his photograph is uploaded to demonstrate the Non-Lomographic use of Lomo LC-A+ as quoted in the below site of Lomography. https://www.lomography.com/magazine/172184-the-non-lomographic-use-of-my-lomo-lc-a"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "The High Court of Lucknow - Gomti Nagar",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:The_High_Court_of_Lucknow_-_Gomti_Nagar.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/The_High_Court_of_Lucknow_-_Gomti_Nagar.tif/lossy-page1-960px-The_High_Court_of_Lucknow_-_Gomti_Nagar.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_High_Court_of_Lucknow_-_Gomti_Nagar.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Lomo LC-A+"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-21",
+     "author": "Veera.sj",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "The Hight Court of Lucknow - Gomti Nagar. his photograph is uploaded to demonstrate the Non-Lomographic use of Lomo LC-A+ as quoted in the below site of Lomography. https://www.lomography.com/magazine/172184-the-non-lomographic-use-of-my-lomo-lc-a"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "White Deer at Indroda",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:White_Deer_at_Indroda.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/White_Deer_at_Indroda.tif/lossy-page1-960px-White_Deer_at_Indroda.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/White_Deer_at_Indroda.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "White Deer at Indroda"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "White Peacock at Indroda",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:White_Peacock_at_Indroda.tif",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/White_Peacock_at_Indroda.tif/lossy-page1-960px-White_Peacock_at_Indroda.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/3b/White_Peacock_at_Indroda.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Cosina CT-1A"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Kodak UltraMax 400 film"
+     ],
+     "device": null,
+     "date": "2018-11-09",
+     "author": "Veera.sj",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "description": "White Peacock at Indorda"
+    }
+   ]
+  },
+  "Lomography Analogue Trio Mixed Film Pack": {
+   "fetchedAt": "2026-11-15T22:40:06.242Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography Color Negative\""
+   },
+   "photos": []
+  },
+  "Lomography Babylon Kino 13": {
+   "fetchedAt": "2026-11-15T22:40:07.154Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography Babylon Kino 13\""
+   },
+   "photos": []
+  },
+  "Lomography Color Negative 100": {
+   "fetchedAt": "2026-11-15T22:40:10.299Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography Color Negative 100\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "AMERICAN MARINE SERVICES GROUP MEMBERS...35MM FILM (EXPLORE, 04-18-2026). - Flickr - Salty Lens (Jonny)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:AMERICAN_MARINE_SERVICES_GROUP_MEMBERS...35MM_FILM_(EXPLORE,_04-18-2026)._-_Flickr_-_Salty_Lens_(Jonny).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/AMERICAN_MARINE_SERVICES_GROUP_MEMBERS...35MM_FILM_%28EXPLORE%2C_04-18-2026%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg/960px-AMERICAN_MARINE_SERVICES_GROUP_MEMBERS...35MM_FILM_%28EXPLORE%2C_04-18-2026%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 540,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/AMERICAN_MARINE_SERVICES_GROUP_MEMBERS...35MM_FILM_%28EXPLORE%2C_04-18-2026%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2026-04-04"
+     ],
+     "device": null,
+     "date": "Taken on 4",
+     "author": "Salty Lens (Jonny)",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Honolulu Harbor, Oahu, Hawai’i A pair of tugboats docked in Honolulu Harbor. The American Champion was captured on a fresh roll of 35mm film. Nikon L35AW AD | Lomography Color Negative 100"
+    }
+   ]
+  },
+  "Lomography Color Negative 400": {
+   "fetchedAt": "2026-11-15T22:40:13.224Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography Color Negative 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Bokeh - Flickr - futureshape",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Bokeh_-_Flickr_-_futureshape.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Bokeh_-_Flickr_-_futureshape.jpg/960px-Bokeh_-_Flickr_-_futureshape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bokeh_-_Flickr_-_futureshape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2016-12-14"
+     ],
+     "device": "Nikon LS-5000",
+     "date": "Taken on 1",
+     "author": "Alexander Baxevanis from London, UK",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Camera: Canon AE-1 Lens: Canon FD 50mm f/1.8 Film: Lomography Color Negative 400 Hand-processed with Tetenal C-41 chemicals at London Hackspace Darkroom Scanner: Nikon Super Coolscan 5000"
+    }
+   ]
+  },
+  "Lomography LomoChrome Classicolor 200": {
+   "fetchedAt": "2026-11-15T22:40:14.714Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography LomoChrome Classicolor 200\""
+   },
+   "photos": []
+  },
+  "Lomography LomoChrome Color ’92 Sun-kissed": {
+   "fetchedAt": "2026-11-15T22:40:16.153Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography LomoChrome Color ’92 Sun-kissed\""
+   },
+   "photos": []
+  },
+  "Lomography MonoChrome Duet": {
+   "fetchedAt": "2026-11-15T22:41:00.806Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography MonoChrome Duet\""
+   },
+   "photos": []
+  },
+  "Lomography Potsdam Kino 100": {
+   "fetchedAt": "2026-11-15T22:41:04.011Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lomography Potsdam Kino 100\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Pre summer , Rollei 35 - Flickr - Bernt Sønvisen",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Pre_summer_,_Rollei_35_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pre_summer_%2C_Rollei_35_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg/960px-Pre_summer_%2C_Rollei_35_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1067,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pre_summer_%2C_Rollei_35_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Rollei 35"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-05-26"
+     ],
+     "device": "EPSON Perfection 3200",
+     "date": "Taken on 2",
+     "author": "Bernt Sønvisen from Oslo, Norway",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Picture from Sunnmøre on the West coast of Norway. Rollei 35, Lomo Potsdam Kino 100, dev in ID-11 (1+1 for 7 min)"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Winter , Praktica B200 - Flickr - Bernt Sønvisen",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Winter_,_Praktica_B200_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Winter_%2C_Praktica_B200_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg/960px-Winter_%2C_Praktica_B200_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/Winter_%2C_Praktica_B200_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2026-02-03"
+     ],
+     "device": null,
+     "date": "Taken on 3",
+     "author": "Bernt Sønvisen from Oslo, Norway",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Praktica B200 + Lomography Potsdam Kino 100 + Rodinal 1+50 for 9:30 min"
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Malin - Flickr - Bernt Sønvisen",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Malin_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Malin_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg/960px-Malin_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Malin_-_Flickr_-_Bernt_S%C3%B8nvisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Nikon F"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2026-02-03"
+     ],
+     "device": null,
+     "date": "Taken on 3",
+     "author": "Bernt Sønvisen from Oslo, Norway",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Nikon F + Lomography Potsdam Kino 100 IE160 ISO, dev 12 min in Rodinal 1+50"
+    }
+   ]
+  },
+  "Rollei Retro 400S": {
+   "fetchedAt": "2026-11-15T22:41:07.111Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Rollei Retro 400S\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "2 Aarhus Letbane 200918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:2_Aarhus_Letbane_200918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2_Aarhus_Letbane_200918_M3_Rollei_Retro400S.jpg/960px-2_Aarhus_Letbane_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 534,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/2_Aarhus_Letbane_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-20",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Aarhus Letbane seen from the terrace of Dokk1 (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "9 Aarhus Badeanstalten Spanien 200918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:9_Aarhus_Badeanstalten_Spanien_200918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/9_Aarhus_Badeanstalten_Spanien_200918_M3_Rollei_Retro400S.jpg/960px-9_Aarhus_Badeanstalten_Spanien_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/9_Aarhus_Badeanstalten_Spanien_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-20",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Badeanstalten Spanien in Aarhus (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "5 Vestre Strandalle 200918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:5_Vestre_Strandalle_200918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/5_Vestre_Strandalle_200918_M3_Rollei_Retro400S.jpg/960px-5_Vestre_Strandalle_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/5_Vestre_Strandalle_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-20",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Vestre Strandalle station (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "8 Aarhus 210918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:8_Aarhus_210918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/8_Aarhus_210918_M3_Rollei_Retro400S.jpg/960px-8_Aarhus_210918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 534,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a7/8_Aarhus_210918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-21",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "A tram arriving at Dokk1 station (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "4 Aarhus 200918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:4_Aarhus_200918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/4_Aarhus_200918_M3_Rollei_Retro400S.jpg/960px-4_Aarhus_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/4_Aarhus_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-20",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Skolegade in Aarhus (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "7 Grenaa 210918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:7_Grenaa_210918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/7_Grenaa_210918_M3_Rollei_Retro400S.jpg/960px-7_Grenaa_210918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/7_Grenaa_210918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-21",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Grenaa station (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "1 Aarhus 200918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:1_Aarhus_200918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/1_Aarhus_200918_M3_Rollei_Retro400S.jpg/960px-1_Aarhus_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1_Aarhus_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-20",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Exterior of Aarhus Theatre (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "6 Aarhus 200918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:6_Aarhus_200918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/6_Aarhus_200918_M3_Rollei_Retro400S.jpg/960px-6_Aarhus_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/f/f3/6_Aarhus_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-20",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Rosensgade in Aarhus (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "3 Aarhus Dokk1 200918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:3_Aarhus_Dokk1_200918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/3_Aarhus_Dokk1_200918_M3_Rollei_Retro400S.jpg/960px-3_Aarhus_Dokk1_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/3_Aarhus_Dokk1_200918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-20",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Terrace of Dokk1 (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "10 Grenaa 210918 M3 Rollei Retro400S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:10_Grenaa_210918_M3_Rollei_Retro400S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/10_Grenaa_210918_M3_Rollei_Retro400S.jpg/960px-10_Grenaa_210918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/10_Grenaa_210918_M3_Rollei_Retro400S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-09-21",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Street in Grenaa (scan from negative, Rollei Retro 400S, Leica M3, Summitar 5cm f/2)."
+    }
+   ]
+  },
+  "Rollei Retro 80S": {
+   "fetchedAt": "2026-11-15T22:41:10.512Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Rollei Retro 80S\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "1 Hafencity Universitaet 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:1_Hafencity_Universitaet_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/1_Hafencity_Universitaet_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-1_Hafencity_Universitaet_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/1_Hafencity_Universitaet_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "HafenCity Universität in Hamburg (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "1 Fischmarkt 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:1_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/1_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-1_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/1_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Remains of the Altonaer Fischmarkt being cleared away (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "2 Herbertstrasse St Pauli 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:2_Herbertstrasse_St_Pauli_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2_Herbertstrasse_St_Pauli_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-2_Herbertstrasse_St_Pauli_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/2_Herbertstrasse_St_Pauli_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Herbertstrasse in St. Pauli seen from Davidstrasse (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "3 S-Bhf Dammtor 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:3_S-Bhf_Dammtor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/3_S-Bhf_Dammtor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-3_S-Bhf_Dammtor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 534,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/3_S-Bhf_Dammtor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Hamburg Dammtor railway station (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Bordei 090618 M3 Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Bordei_090618_M3_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bordei_090618_M3_Rollei_Retro_80S.jpg/960px-Bordei_090618_M3_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 1200,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bordei_090618_M3_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-06-09",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Restaurant and oratory in Bordei (scan from negative, Rollei Retro 80S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Palagnedra 090618 M3 Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Palagnedra_090618_M3_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Palagnedra_090618_M3_Rollei_Retro_80S.jpg/960px-Palagnedra_090618_M3_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/Palagnedra_090618_M3_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica M3"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-06-09",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "View of Palagnedra (scan from negative, Rollei Retro 80S, Leica M3, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "2 Fischmarkt 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:2_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-2_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/2_Fischmarkt_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Remains of the Altonaer Fischmarkt being cleared away (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "4 Bernhard-Nocht-Strasse 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:4_Bernhard-Nocht-Strasse_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/4_Bernhard-Nocht-Strasse_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-4_Bernhard-Nocht-Strasse_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/4_Bernhard-Nocht-Strasse_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "View of Bernhard-Nocht-Strasse (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "2 Berliner Tor 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:2_Berliner_Tor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/2_Berliner_Tor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-2_Berliner_Tor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/2_Berliner_Tor_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Hamburg Berliner Tor railway station (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "MS AIDAperla Hamburg 250818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:MS_AIDAperla_Hamburg_250818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/MS_AIDAperla_Hamburg_250818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-MS_AIDAperla_Hamburg_250818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/MS_AIDAperla_Hamburg_250818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-25",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "MS \"AIDAperla\" steaming on the Elbe (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "1 Hafencity 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:1_Hafencity_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/1_Hafencity_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-1_Hafencity_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 533,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/1_Hafencity_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "The HafenCity seen from the HafenCity viewpoint (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "3 Landungsbrücken 260818 IIIc Summitar 5cm Rollei Retro 80S",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:3_Landungsbr%C3%BCcken_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/3_Landungsbr%C3%BCcken_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg/960px-3_Landungsbr%C3%BCcken_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 534,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/3_Landungsbr%C3%BCcken_260818_IIIc_Summitar_5cm_Rollei_Retro_80S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Leica III"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "Canon CanoScan 5600F",
+     "date": "2018-08-26",
+     "author": "NAC",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "View from Landungsbrücken ferry station (scan from negative, Rollei Retro 80S, Leica IIIc, Summitar 5cm f/2)."
+    }
+   ]
+  },
+  "Rollei RPX 100": {
+   "fetchedAt": "2026-11-15T22:41:12.705Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Rollei RPX 100\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Gaétan IGP9265 (28550403275)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Ga%C3%A9tan_IGP9265_(28550403275).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ga%C3%A9tan_IGP9265_%2828550403275%29.jpg/960px-Ga%C3%A9tan_IGP9265_%2828550403275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 803,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ga%C3%A9tan_IGP9265_%2828550403275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "PENTAX K20D",
+     "date": "2016-07-25",
+     "author": "Gaétan",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "description": "Le long de la rivière Tomifobia à Ayers Cliff, Estrie, Québec, Rolleiflex 3.5 avec film 120 Rollei RPX 100, filtre jaune."
+    },
+    {
+     "site": "Wikimedia Commons",
+     "title": "Gaétan IGP9268 (28428797626)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Ga%C3%A9tan_IGP9268_(28428797626).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ga%C3%A9tan_IGP9268_%2828428797626%29.jpg/960px-Ga%C3%A9tan_IGP9268_%2828428797626%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 801,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ga%C3%A9tan_IGP9268_%2828428797626%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "Rollei films"
+     ],
+     "device": "PENTAX K20D",
+     "date": "2016-07-14",
+     "author": "Gaétan",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "description": "Porte d'entrée du village québécois de North Hatley. Appareil Rolleiflex 3.5, film 120 Rollei RPX 100, filtre jaune."
+    }
+   ]
+  },
+  "Rollei RPX 25": {
+   "fetchedAt": "2026-11-15T22:42:00.771Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Rollei RPX 25\""
+   },
+   "photos": []
+  },
+  "Rollei RPX 400": {
+   "fetchedAt": "2026-11-15T22:42:03.908Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Rollei RPX 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Lighthouse Point Beach - Flickr - naql",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_Point_Beach_-_Flickr_-_naql.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Lighthouse_Point_Beach_-_Flickr_-_naql.jpg/960px-Lighthouse_Point_Beach_-_Flickr_-_naql.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lighthouse_Point_Beach_-_Flickr_-_naql.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2024-09-13"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "Taken on 1",
+     "author": "naql",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "description": "Part of the beach at Lighthouse Point park in New Haven Connecticut. Nikon FG-20 Rollei RPX 400 Nikon 28mm f/2.8 Series E"
+    }
+   ]
+  }
+ }
+}
