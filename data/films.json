@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T21:18:16.656Z",
+  "updatedAt": "2026-11-16T20:33:12.184Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
   "totalIn35mmCategory": 107,
-  "inStockCount": 46,
+  "inStockCount": 45,
   "films": [
     {
       "id": 34908,
@@ -543,33 +543,6 @@
       },
       "summary": "Kodak Ektacolor Pro 400 for 35mm cameras, rated ISO 400, developed in C-41.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: ISO 400\n\nExposures: 36 per roll\n\nPack: Single roll\n\nProcess: C-41\n\nColour balance: Daylight",
       "descriptionHtml": "<p>Kodak Ektacolor Pro 400 is an ISO 400 daylight-balanced colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Kodak Ektacolor Pro 400 Color Negative Film 35mm is a versatile ISO 400 color negative film designed for photographers who want rich color, fine grain, and reliable performance in a wide range of lighting conditions. With 36 exposures per roll, this film produces vibrant color saturation, balanced skin tones, and excellent detail, making it suitable for portraits, street photography, travel, and everyday shooting. Its ISO 400 speed offers flexibility for both outdoor and indoor use without sacrificing image quality. Kodak Ektacolor Pro 400 uses standard C-41 processing, making it easy to develop at most film labs. The combination of sharpness, dynamic range, and classic Kodak color makes it an excellent choice for both casual and professional film photographers.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n</ul>"
-    },
-    {
-      "id": 101098,
-      "slug": "kodak-ektacolor-pro-800-35mm-film-36-exposures",
-      "name": "Kodak Ektacolor Pro 800",
-      "fullName": "Kodak Ektacolor Pro 800 35mm Color Negative Film — 36 Exposures",
-      "brand": "Kodak",
-      "iso": "800",
-      "type": "Color Negative",
-      "process": null,
-      "format": "35mm",
-      "exposures": 36,
-      "rolls": 1,
-      "price": 31.99,
-      "regularPrice": 31.99,
-      "onSale": false,
-      "currency": "CAD",
-      "lowStock": null,
-      "stockText": "In stock",
-      "url": "https://graination.ca/product/kodak-ektacolor-pro-800-35mm-film-36-exposures/",
-      "image": {
-        "src": "https://graination.ca/wp-content/uploads/2026/09/kodak-ektacolor-pro-800-35mm-36-exposures.webp",
-        "thumb": "https://graination.ca/wp-content/uploads/2026/09/kodak-ektacolor-pro-800-35mm-36-exposures-200x200.webp",
-        "alt": "Kodak Ektacolor Pro 800 35mm Color Negative Film — 36 Exposures box front"
-      },
-      "summary": "Kodak Ektacolor Pro 800 for 35mm cameras, rated ISO 800, developed in C-41.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: ISO 800\n\nExposures: 36 per roll\n\nPack: Single roll\n\nProcess: C-41\n\nColour balance: Daylight",
-      "descriptionHtml": "<p>Kodak Ektacolor Pro 800 is an ISO 800 daylight-balanced colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Kodak Ektacolor Pro 800 35mm Color Negative Film is a high-speed ISO 800 film designed for flexible shooting in low-light and mixed lighting conditions. It produces natural skin tones, balanced color, and fine grain while maintaining strong detail and sharpness. With 36 exposures per roll and wide exposure latitude, this film performs reliably for portraits, events, travel, and street photography. It is compatible with standard C-41 processing, making it easy to develop at most film labs.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 800</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n</ul>"
     },
     {
       "id": 8686,

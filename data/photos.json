@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T22:42:03.909Z",
+ "generatedAt": "2026-11-16T20:33:12.272Z",
  "films": {
   "AgfaPhoto APX 100": {
    "fetchedAt": "2026-11-15T22:34:56.559Z",
@@ -1198,14 +1198,6 @@
    "source": {
     "kind": "search",
     "query": "\"Kodak Ektacolor Pro 400\""
-   },
-   "photos": []
-  },
-  "Kodak Ektacolor Pro 800": {
-   "fetchedAt": "2026-11-15T22:38:07.111Z",
-   "source": {
-    "kind": "search",
-    "query": "\"Kodak Ektacolor Pro 800\""
    },
    "photos": []
   },
