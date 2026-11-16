@@ -1,0 +1,3 @@
+{
+  "_help": "Hand-picked r/analog posts shown on each film's page with Reddit's official embed. Key = film name exactly as the site shows it. Value = a list of post links. Open the post in a web browser and copy the address bar: it must look like https://www.reddit.com/r/analog/comments/abc123/title/ (short 'reddit.com/r/analog/s/...' share links from the app don't work). Example: \"Kodak Gold 200\": [\"https://www.reddit.com/r/analog/comments/abc123/morning_light_nikon_fm2_kodak_gold_200/\"]"
+}

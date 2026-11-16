@@ -874,3 +874,35 @@ details.more .desc h4 {
   padding-top: 20px;
   border-top: 1px solid var(--line);
 }
+
+/* ---------- hand-picked r/analog posts ---------- */
+.reddit {
+  margin-top: 36px;
+}
+.reddit h3 {
+  font-family: var(--serif);
+  font-weight: 650;
+  font-size: 1.375rem;
+  margin: 0 0 6px;
+}
+.reddit-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr));
+  gap: 16px;
+  align-items: start;
+}
+.reddit-post {
+  min-width: 0;
+}
+.reddit-post iframe {
+  width: 100% !important;
+  max-width: 100%;
+  border: 0;
+}
+.reddit-post blockquote {
+  margin: 0;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface);
+}

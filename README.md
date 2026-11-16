@@ -58,6 +58,28 @@ The key is visible to anyone who views the site's files; that's normal for
 Flickr keys used in web pages (it only allows reading public photos).
 Every Flickr photo is shown with the photographer's name, license and a link back to it.
 
+## r/analog posts (picked by you)
+
+Each film page can show r/analog posts you choose, using Reddit's official
+embed (photo, title, poster and a link back). Reddit no longer lets new sites
+search its posts automatically, so you add them by hand:
+
+1. Open the post in a web browser and copy the address bar. It must look like
+   `https://www.reddit.com/r/analog/comments/abc123/title/`. Short
+   `reddit.com/r/analog/s/…` links from the Reddit app don't work.
+2. In `data/reddit-posts.json`, add it under the film's name, exactly as the site shows it:
+
+```json
+{
+  "Kodak Gold 200": [
+    "https://www.reddit.com/r/analog/comments/abc123/morning_light_nikon_fm2_kodak_gold_200/"
+  ]
+}
+```
+
+3. Commit the change (on GitHub you can edit the file right in the browser).
+   The site republishes within a few minutes.
+
 ## Fixing a film's photos
 
 If a film shows the wrong photos, or none, edit `data/commons-overrides.json`:

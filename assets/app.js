@@ -100,7 +100,7 @@ async function loadData() {
   const res = await fetch(`data/films.json?t=${Math.floor(Date.now() / 300000)}`, { cache: 'no-cache' });
   if (!res.ok) throw new Error(`Could not load the film list (${res.status}).`);
   state.data = await res.json();
-  await loadLomography();
+  await Promise.all([loadLomography(), loadRedditPosts()]);
   return state.data;
 }
 
@@ -114,6 +114,51 @@ async function loadLomography() {
     state.lomography = {};
   }
   return state.lomography;
+}
+
+// Hand-picked r/analog posts per film (data/reddit-posts.json), shown with Reddit's official embed.
+async function loadRedditPosts() {
+  if (state.reddit) return state.reddit;
+  try {
+    const res = await fetch('data/reddit-posts.json', { cache: 'no-cache' });
+    state.reddit = res.ok ? await res.json() : {};
+  } catch {
+    state.reddit = {};
+  }
+  return state.reddit;
+}
+
+const REDDIT_POST = /^https:\/\/(www\.|old\.)?reddit\.com\/r\/[A-Za-z0-9_]+\/comments\/[a-z0-9]+(\/[^\s?#]*)?/i;
+
+function redditPostsFor(film) {
+  const list = state.reddit?.[film.name];
+  if (!Array.isArray(list)) return [];
+  return list
+    .map((u) => String(u).trim().match(REDDIT_POST)?.[0].replace('://old.', '://www.').replace('://reddit.com', '://www.reddit.com'))
+    .filter(Boolean);
+}
+
+function renderReddit(film) {
+  const box = main.querySelector('#reddit');
+  const posts = redditPostsFor(film);
+  // The snapshot copy can't load Reddit's script, so leave the section out there.
+  if (!box || STATIC || posts.length === 0) return;
+  const dark = document.documentElement.dataset.theme === 'dark' || (document.documentElement.dataset.theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches);
+  box.hidden = false;
+  box.querySelector('.reddit-posts').innerHTML = posts
+    .map(
+      (url) => `<div class="reddit-post"><blockquote class="reddit-embed-bq" data-embed-theme="${dark ? 'dark' : 'light'}" data-embed-showmedia="true" data-embed-showtitle="true" data-embed-height="560"><a href="${esc(url)}">View this post on r/analog</a></blockquote></div>`,
+    )
+    .join('');
+  // Reddit's script turns each blockquote into the live post. It only scans the
+  // page when it loads, so add a fresh copy every time a film page opens.
+  document.getElementById('reddit-widgets')?.remove();
+  const script = document.createElement('script');
+  script.id = 'reddit-widgets';
+  script.async = true;
+  script.src = 'https://embed.reddit.com/widgets.js';
+  script.charset = 'UTF-8';
+  document.body.appendChild(script);
 }
 
 function elsewhereLinks(film) {
@@ -369,6 +414,11 @@ function renderFilm(slug) {
       <div class="cameras" id="cameras"></div>
       <div class="gallery" id="gallery"></div>
       <div class="gallery-foot" id="gallery-foot"></div>
+      <section class="reddit" id="reddit" aria-labelledby="reddit-title" hidden>
+        <h3 id="reddit-title">From r/analog</h3>
+        <p class="source-note">Posts picked by hand. On r/analog the title usually names the camera and film.</p>
+        <div class="reddit-posts"></div>
+      </section>
       <div class="elsewhere">
         <span class="toolbar-label">More photos of this film</span>
         <div class="link-row" id="elsewhere">${elsewhereLinks(film)}</div>
@@ -377,6 +427,7 @@ function renderFilm(slug) {
   `;
   window.scrollTo({ top: 0 });
   loadSamples(film, ++filmRenderId);
+  renderReddit(film);
 }
 
 function spec(label, value) {
