@@ -1,5 +1,7 @@
 # Shelf Life: 35mm film in stock at Graination
 
+**Live site:** https://elsimonoff.github.io/GrainationPreview/ (stock refreshed hourly)
+
 A small website that shows every **35mm film currently in stock** at
 [graination.ca](https://graination.ca/product-category/film/35mm-film/).
 Open a film to see **real photos shot on it** and **the camera each photo was taken with**.
