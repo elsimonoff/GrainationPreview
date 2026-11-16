@@ -56,6 +56,14 @@ jobs:
             git push
           fi
 
+      - name: Stamp file versions so browsers load the newest code
+        if: github.ref_name == github.event.repository.default_branch
+        run: |
+          v="${GITHUB_SHA::8}"
+          sed -i "s#assets/app.js\"#assets/app.js?v=$v\"#; s#assets/styles.css\"#assets/styles.css?v=$v\"#" index.html
+          sed -i -E "s#from '\./([a-z-]+)\.js'#from './\1.js?v=$v'#g" assets/*.js
+          grep -h "?v=" index.html assets/app.js | head -3
+
       - name: Package site
         if: github.ref_name == github.event.repository.default_branch
         uses: actions/upload-pages-artifact@v3

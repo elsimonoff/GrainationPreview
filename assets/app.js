@@ -119,11 +119,15 @@ async function loadLomography() {
 function elsewhereLinks(film) {
   const q = encodeURIComponent(film.name.replace(/\b(professional|eastman)\b/gi, '').replace(/\s+/g, ' ').trim());
   const lomo = state.lomography?.[film.name];
-  const lomoUrl = typeof lomo === 'string' && lomo.startsWith('https://www.lomography.com/') ? lomo : `https://www.google.com/search?q=${q}+site%3Alomography.com%2Ffilms`;
+  const lomoLink =
+    typeof lomo === 'string' && lomo.startsWith('https://www.lomography.com/')
+      ? `<a class="btn secondary" href="${esc(lomo)}" target="_blank" rel="noopener">Lomography ↗</a>`
+      : '';
   return `
-    <a class="btn secondary" href="${esc(lomoUrl)}" target="_blank" rel="noopener">Lomography ↗</a>
+    ${lomoLink}
     <a class="btn secondary" href="https://www.flickr.com/search/?text=${q}" target="_blank" rel="noopener">Flickr ↗</a>
-    <a class="btn secondary" href="https://www.reddit.com/r/analog/search/?q=${q}&restrict_sr=1" target="_blank" rel="noopener">r/analog ↗</a>`;
+    <a class="btn secondary" href="https://www.reddit.com/r/analog/search/?q=${q}&restrict_sr=1" target="_blank" rel="noopener">r/analog ↗</a>
+    ${lomoLink ? '' : '<span class="pack">Not in Lomography’s film library yet.</span>'}`;
 }
 
 // ---------- list view ----------
