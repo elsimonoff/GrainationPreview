@@ -100,7 +100,30 @@ async function loadData() {
   const res = await fetch(`data/films.json?t=${Math.floor(Date.now() / 300000)}`, { cache: 'no-cache' });
   if (!res.ok) throw new Error(`Could not load the film list (${res.status}).`);
   state.data = await res.json();
+  await loadLomography();
   return state.data;
+}
+
+// Each film's own page on Lomography (data/lomography-films.json, editable by hand).
+async function loadLomography() {
+  if (state.lomography) return state.lomography;
+  try {
+    const res = await fetch('data/lomography-films.json', { cache: 'no-cache' });
+    state.lomography = res.ok ? await res.json() : {};
+  } catch {
+    state.lomography = {};
+  }
+  return state.lomography;
+}
+
+function elsewhereLinks(film) {
+  const q = encodeURIComponent(film.name.replace(/\b(professional|eastman)\b/gi, '').replace(/\s+/g, ' ').trim());
+  const lomo = state.lomography?.[film.name];
+  const lomoUrl = typeof lomo === 'string' && lomo.startsWith('https://www.lomography.com/') ? lomo : `https://www.google.com/search?q=${q}+site%3Alomography.com%2Ffilms`;
+  return `
+    <a class="btn secondary" href="${esc(lomoUrl)}" target="_blank" rel="noopener">Lomography ↗</a>
+    <a class="btn secondary" href="https://www.flickr.com/search/?text=${q}" target="_blank" rel="noopener">Flickr ↗</a>
+    <a class="btn secondary" href="https://www.reddit.com/r/analog/search/?q=${q}&restrict_sr=1" target="_blank" rel="noopener">r/analog ↗</a>`;
 }
 
 // ---------- list view ----------
@@ -342,6 +365,10 @@ function renderFilm(slug) {
       <div class="cameras" id="cameras"></div>
       <div class="gallery" id="gallery"></div>
       <div class="gallery-foot" id="gallery-foot"></div>
+      <div class="elsewhere">
+        <span class="toolbar-label">More photos of this film</span>
+        <div class="link-row" id="elsewhere">${elsewhereLinks(film)}</div>
+      </div>
     </section>
   `;
   window.scrollTo({ top: 0 });
@@ -541,14 +568,8 @@ async function loadSamples(film, renderId) {
 
   function showNothing() {
     note.innerHTML = '';
-    const q = encodeURIComponent(film.name);
     gallery.innerHTML = `<div class="no-photos">
-      <p>No freely licensed sample photos of <strong>${esc(film.name)}</strong> on Wikimedia Commons yet. Try these photo communities instead:</p>
-      <div class="link-row">
-        <a class="btn secondary" href="https://www.flickr.com/search/?text=${q}" target="_blank" rel="noopener">Flickr ↗</a>
-        <a class="btn secondary" href="https://www.reddit.com/r/analog/search/?q=${q}&restrict_sr=1" target="_blank" rel="noopener">r/analog ↗</a>
-        <a class="btn secondary" href="https://www.lomography.com/search?terms=${q}" target="_blank" rel="noopener">Lomography ↗</a>
-      </div>
+      <p>No freely licensed sample photos of <strong>${esc(film.name)}</strong> on Wikimedia Commons yet. The photo communities below have plenty, with the camera listed on most.</p>
     </div>`;
     foot.innerHTML = '';
   }

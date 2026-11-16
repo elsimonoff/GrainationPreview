@@ -863,3 +863,14 @@ details.more .desc h4 {
   font-size: 0.8125rem;
   margin-bottom: 2px;
 }
+
+/* ---------- links to other photo sites ---------- */
+.elsewhere {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 14px;
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
