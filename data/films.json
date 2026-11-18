@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-16T20:33:12.184Z",
+  "updatedAt": "2026-11-18T22:04:07.084Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
   "totalIn35mmCategory": 107,
-  "inStockCount": 45,
+  "inStockCount": 47,
   "films": [
     {
       "id": 34908,
@@ -545,6 +545,33 @@
       "descriptionHtml": "<p>Kodak Ektacolor Pro 400 is an ISO 400 daylight-balanced colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Kodak Ektacolor Pro 400 Color Negative Film 35mm is a versatile ISO 400 color negative film designed for photographers who want rich color, fine grain, and reliable performance in a wide range of lighting conditions. With 36 exposures per roll, this film produces vibrant color saturation, balanced skin tones, and excellent detail, making it suitable for portraits, street photography, travel, and everyday shooting. Its ISO 400 speed offers flexibility for both outdoor and indoor use without sacrificing image quality. Kodak Ektacolor Pro 400 uses standard C-41 processing, making it easy to develop at most film labs. The combination of sharpness, dynamic range, and classic Kodak color makes it an excellent choice for both casual and professional film photographers.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n</ul>"
     },
     {
+      "id": 101098,
+      "slug": "kodak-ektacolor-pro-800-35mm-film-36-exposures",
+      "name": "Kodak Ektacolor Pro 800",
+      "fullName": "Kodak Ektacolor Pro 800 35mm Color Negative Film — 36 Exposures",
+      "brand": "Kodak",
+      "iso": "800",
+      "type": "Color Negative",
+      "process": null,
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 31.99,
+      "regularPrice": 31.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/kodak-ektacolor-pro-800-35mm-film-36-exposures/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2026/09/kodak-ektacolor-pro-800-35mm-36-exposures.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2026/09/kodak-ektacolor-pro-800-35mm-36-exposures-200x200.webp",
+        "alt": "Kodak Ektacolor Pro 800 35mm Color Negative Film — 36 Exposures box front"
+      },
+      "summary": "Kodak Ektacolor Pro 800 for 35mm cameras, rated ISO 800, developed in C-41.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: ISO 800\n\nExposures: 36 per roll\n\nPack: Single roll\n\nProcess: C-41\n\nColour balance: Daylight",
+      "descriptionHtml": "<p>Kodak Ektacolor Pro 800 is an ISO 800 daylight-balanced colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Kodak Ektacolor Pro 800 35mm Color Negative Film is a high-speed ISO 800 film designed for flexible shooting in low-light and mixed lighting conditions. It produces natural skin tones, balanced color, and fine grain while maintaining strong detail and sharpness. With 36 exposures per roll and wide exposure latitude, this film performs reliably for portraits, events, travel, and street photography. It is compatible with standard C-41 processing, making it easy to develop at most film labs.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 800</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n</ul>"
+    },
+    {
       "id": 8686,
       "slug": "kodak-ektapan-400-35mm-film-36-exposures",
       "name": "Kodak Ektapan 400",
@@ -1083,6 +1110,33 @@
       },
       "summary": "Lomography Potsdam Kino 100 for 35mm cameras, rated ISO 100, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 100\n\nPack: single roll, 36 exposures\n\nProcess: B&W\n\nOrigin: cinema-derived emulsion",
       "descriptionHtml": "<p>Lomography Potsdam Kino 100 is an ISO 100 black & white film for 35mm cameras. This listing is a single 36-exposure roll. It is developed in normal black & white chemistry.</p>\n<p>It is a cine emulsion respooled for still cameras.</p>\n<p>Immerse yourself in the timeless beauty of Potsdam Kino B&W 35mm ISO 100 film. This powerful black and white cine film is your artistic tool to freeze life’s most meaningful moments in gorgeous greyscale. Take your poetic license outdoors with the low light sensitivity of ISO 100. The panchromatic emulsion ensures fine grain, while the high density and dynamic range deliver stunning detail in both landscape and portrait photography. Seize the opportunity to create timeless, monochromatic masterpieces with Potsdam Kino B&W 35mm ISO 100 film. Your journey into the world of black and white photography starts here.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 100</li>\n<li><strong>Pack:</strong> single roll, 36 exposures</li>\n<li><strong>Process:</strong> B&W</li>\n<li><strong>Origin:</strong> cinema-derived emulsion</li>\n</ul>"
+    },
+    {
+      "id": 93044,
+      "slug": "reflx-lab-640t-ahu-35mm-color-film-36exp",
+      "name": "Reflx Lab 640T AHU",
+      "fullName": "Reflx Lab 640T AHU 35mm Color Negative Film — 36 Exposures",
+      "brand": "Reflx Lab",
+      "iso": "640",
+      "type": "Color Negative",
+      "process": null,
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 19.99,
+      "regularPrice": 19.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/reflx-lab-640t-ahu-35mm-color-film-36exp/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2026/02/reflx-lab-640t-ahu.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2026/02/reflx-lab-640t-ahu-200x200.webp",
+        "alt": "Reflx Lab 640T AHU 35mm Color Negative Film — 36 Exposures"
+      },
+      "summary": "Reflx Lab 640T AHU for 35mm cameras, rated ISO 640 (C-41, as marked on the box), developed in C-41 or ECN-2.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: 640 in C-41, which is what the box states; Reflx Lab also publish 500 for the same emulsion in ECN-2\n\nExposures: 36 per roll\n\nProcess: C-41 or ECN-2\n\nColour balance: Tungsten\n\nRemjet: none — anti-halation undercoat instead\n\nOrigin: cinema-derived emulsion\n\nSpeed by process: ECN-2 500 / C-41 640",
+      "descriptionHtml": "<p>Reflx Lab 640T AHU is an ISO 640 (C-41, as marked on the box) tungsten-balanced colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>It can be developed either way, and the speed you shoot it at depends on which: ECN-2 500 / C-41 640. An anti-halation undercoat replaces the remjet layer, so no lab has to strip anything off it.</p>\n<p>High-quality REFLX LAB 640T AHU Color Film – 36 exp delivers rich, cinematic tones with exceptional color accuracy and fine grain. Perfect for filmmakers, analog photographers, and creative pros seeking dynamic contrast and reliable performance in diverse lighting. A top choice for expressive, filmic imagery.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> 640 in C-41, which is what the box states; Reflx Lab also publish 500 for the same emulsion in ECN-2</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41 or ECN-2</li>\n<li><strong>Colour balance:</strong> Tungsten</li>\n<li><strong>Remjet:</strong> none — anti-halation undercoat instead</li>\n<li><strong>Origin:</strong> cinema-derived emulsion</li>\n<li><strong>Speed by process:</strong> ECN-2 500 / C-41 640</li>\n</ul>"
     },
     {
       "id": 36009,

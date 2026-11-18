@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:33:12.272Z",
+ "generatedAt": "2026-11-18T22:04:08.948Z",
  "films": {
   "AgfaPhoto APX 100": {
    "fetchedAt": "2026-11-15T22:34:56.559Z",
@@ -1198,6 +1198,14 @@
    "source": {
     "kind": "search",
     "query": "\"Kodak Ektacolor Pro 400\""
+   },
+   "photos": []
+  },
+  "Kodak Ektacolor Pro 800": {
+   "fetchedAt": "2026-11-18T22:04:07.548Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Kodak Ektacolor Pro 800\""
    },
    "photos": []
   },
@@ -2908,6 +2916,14 @@
      "description": "Nikon F + Lomography Potsdam Kino 100 IE160 ISO, dev 12 min in Rodinal 1+50"
     }
    ]
+  },
+  "Reflx Lab 640T AHU": {
+   "fetchedAt": "2026-11-18T22:04:08.948Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Reflx Lab 640T AHU\""
+   },
+   "photos": []
   },
   "Rollei Retro 400S": {
    "fetchedAt": "2026-11-15T22:41:07.111Z",
