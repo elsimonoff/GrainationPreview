@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-19T13:24:23.928Z",
+  "updatedAt": "2026-11-19T22:14:17.398Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
-  "totalIn35mmCategory": 107,
-  "inStockCount": 46,
+  "totalIn35mmCategory": 109,
+  "inStockCount": 51,
   "films": [
     {
       "id": 34908,
@@ -84,6 +84,87 @@
       },
       "summary": "Foma Fomapan 100 Classic for 35mm cameras, rated ISO 100, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 100\n\nExposures: 36 per roll\n\nProcess: B&W\n\nEdition: Retro Edition packaging",
       "descriptionHtml": "<p>Foma Fomapan 100 Classic is an ISO 100 black & white film for 35mm cameras. It is developed in normal black & white chemistry.</p>\n<p>Fomapan 100 Retro Edition from Foma is a panchromatic black and white negative film with a nominal sensitivity of ISO 100/21°. Its wide exposure latitude permits rating the film at +1 EV to -2EV with no change needed when processing in standard chemistry, making it suitable for working in a wide variety of lighting conditions. It has a fine grain structure, good resolving power, and high sharpness. To celebrate 100 years of photographic excellence, Foma presents this 36-exposure roll of 35mm film in Retro Edition packaging, paying homage to their colorful box designs from the early 1900’s.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 100</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> B&W</li>\n<li><strong>Edition:</strong> Retro Edition packaging</li>\n</ul>"
+    },
+    {
+      "id": 35898,
+      "slug": "foma-fomapan-200-creative-black-and-white-negative-film-35mm-roll-film-36-exposures",
+      "name": "Foma Fomapan 200 Creative",
+      "fullName": "Foma Fomapan 200 Creative 35mm Black & White Film — 36 Exposures, Retro Edition packaging",
+      "brand": "Foma",
+      "iso": "200",
+      "type": "Black & White",
+      "process": null,
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 14.99,
+      "regularPrice": 14.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/foma-fomapan-200-creative-black-and-white-negative-film-35mm-roll-film-36-exposures/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2024/10/Foma-Fomapan-200-Retro-Edition-Black-and-White-Negative-Film-35mm-Roll-Film-36-Exposures.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2024/10/Foma-Fomapan-200-Retro-Edition-Black-and-White-Negative-Film-35mm-Roll-Film-36-Exposures-200x200.webp",
+        "alt": "Foma Fomapan 200 Creative 35mm black & white film — box front"
+      },
+      "summary": "Foma Fomapan 200 Creative for 35mm cameras, rated ISO 200, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 200\n\nExposures: 36 per roll\n\nProcess: B&W\n\nEdition: Retro Edition packaging",
+      "descriptionHtml": "<p>Foma Fomapan 200 Creative is an ISO 200 black & white film for 35mm cameras. It is developed in normal black & white chemistry.</p>\n<p>Foma Fomapan 200 Retro Edition 35mm Film is a panchromatic black and white negative film rated at ISO 200, offering fine grain, high sharpness, and smooth tonal range. It performs reliably in a wide range of lighting conditions thanks to its broad exposure latitude. This Retro Edition features limited vintage-style packaging inspired by early 20th-century Foma designs, while using the same trusted Fomapan 200 emulsion. With 36 exposures per roll and compatibility with standard black and white processing, it is an excellent choice for street, portrait, and everyday photography.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 200</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> B&W</li>\n<li><strong>Edition:</strong> Retro Edition packaging</li>\n</ul>"
+    },
+    {
+      "id": 35909,
+      "slug": "foma-fomapan-400-action-black-and-white-negative-film-35mm-roll-film-36-exposures",
+      "name": "Foma Fomapan 400 Action",
+      "fullName": "Foma Fomapan 400 Action 35mm Black & White Film — 36 Exposures, Retro Edition packaging",
+      "brand": "Foma",
+      "iso": "400",
+      "type": "Black & White",
+      "process": null,
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 14.99,
+      "regularPrice": 14.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/foma-fomapan-400-action-black-and-white-negative-film-35mm-roll-film-36-exposures/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2024/10/Foma-Fomapan-400-Retro-Edition-Black-and-White-Negative-Film-35mm-Roll-Film-36-Exposures.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2024/10/Foma-Fomapan-400-Retro-Edition-Black-and-White-Negative-Film-35mm-Roll-Film-36-Exposures-200x200.webp",
+        "alt": "Foma Fomapan 400 Action 35mm black & white film — box front"
+      },
+      "summary": "Foma Fomapan 400 Action for 35mm cameras, rated ISO 400, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 400\n\nExposures: 36 per roll\n\nProcess: B&W\n\nEdition: Retro Edition packaging",
+      "descriptionHtml": "<p>Foma Fomapan 400 Action is an ISO 400 black & white film for 35mm cameras. It is developed in normal black & white chemistry.</p>\n<p>Foma Fomapan 400 Retro Edition 35mm Film is a panchromatic black and white negative film rated at ISO 400, designed for flexible shooting in a wide range of lighting conditions. It delivers fine grain, strong sharpness, and a broad tonal range, making it suitable for street, documentary, and everyday photography. With wide exposure latitude, the film can be rated between ISO 200 and 1600 while maintaining reliable results without changing development times. This Retro Edition features limited vintage-style packaging inspired by Foma’s early 20th-century designs, celebrating over 100 years of film production while using the same trusted Fomapan 400 emulsion.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> B&W</li>\n<li><strong>Edition:</strong> Retro Edition packaging</li>\n</ul>"
+    },
+    {
+      "id": 35916,
+      "slug": "foma-ortho-400-black-and-white-film-35mm-roll-film-36-exposures-limited-edition-retro-packaging",
+      "name": "Foma Ortho 400",
+      "fullName": "Foma Ortho 400 35mm Black & White Film — 36 Exposures, Limited Edition retro packaging",
+      "brand": "Foma",
+      "iso": "400",
+      "type": "Black & White",
+      "process": null,
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 17.99,
+      "regularPrice": 17.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/foma-ortho-400-black-and-white-film-35mm-roll-film-36-exposures-limited-edition-retro-packaging/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2024/11/Foma-Ortho-400-Black-and-White-Film-35mm-36exp-scaled.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2024/11/Foma-Ortho-400-Black-and-White-Film-35mm-36exp-200x200.webp",
+        "alt": "Foma Ortho 400 35mm black & white film — box front"
+      },
+      "summary": "Foma Ortho 400 for 35mm cameras, rated ISO 400, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 400\n\nExposures: 36 per roll\n\nProcess: B&W\n\nEdition: Limited Edition retro packaging",
+      "descriptionHtml": "<p>Foma Ortho 400 is an ISO 400 black & white film for 35mm cameras. It is developed in normal black & white chemistry.</p>\n<p>It is orthochromatic — blind to red light, so reds render dark. Safelight handling must be brief and indirect, using illumination at 585 nm or longer; never use green or dark olive-green safelights.</p>\n<p>The Foma Ortho 400 Black and White Film in 35mm format with 36 exposures is designed for photographers who want high-contrast black-and-white images with rich detail and smooth tonal gradation. Known for its orthochromatic sensitivity, this film renders reds darker than panchromatic films, creating unique contrast and making it perfect for landscape, architecture, and fine art photography. With an ISO 400 rating, Foma Ortho 400 offers great versatility for both indoor and outdoor shooting. Its fine grain structure ensures sharpness and clarity, making it ideal for photographers who want a high-contrast aesthetic. Developed using standard black-and-white chemistry, Foma Ortho 400 is easy to process at home or in professional labs, making it a favorite among both enthusiasts and professionals.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> B&W</li>\n<li><strong>Edition:</strong> Limited Edition retro packaging</li>\n</ul>"
     },
     {
       "id": 14423,
@@ -1004,33 +1085,6 @@
       "descriptionHtml": "<p>Lomography Color Negative 400 is an ISO 400 colour negative film for 35mm cameras. This listing is a pack of 3 rolls, 36 exposures each. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Discover the magic of Lomography Color Negative 35mm ISO 400 film, a pack of 3 delivering dazzling colors and stunning sharpness. This is your favorite color negative, come rain or shine, offering unbeatable versatility. With a medium light sensitivity of ISO 400, Lomo Color Negative ensures vibrant hues and fine grain. This pack of 3 films is your ticket to a world of creative possibilities.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Pack:</strong> 3 rolls, 36 exposures each</li>\n<li><strong>Process:</strong> C-41</li>\n<li><strong>DX code:</strong> yes</li>\n</ul>"
     },
     {
-      "id": 107553,
-      "slug": "lomochrome-classicolor-35mm-film-iso-200",
-      "name": "Lomography LomoChrome Classicolor 200",
-      "fullName": "Lomography LomoChrome Classicolor 200 35mm Color Negative Film — 36 Exposures",
-      "brand": "Lomography",
-      "iso": "200",
-      "type": "Color Negative",
-      "process": null,
-      "format": "35mm",
-      "exposures": 36,
-      "rolls": 1,
-      "price": 14.99,
-      "regularPrice": 14.99,
-      "onSale": false,
-      "currency": "CAD",
-      "lowStock": null,
-      "stockText": "In stock",
-      "url": "https://graination.ca/product/lomochrome-classicolor-35mm-film-iso-200/",
-      "image": {
-        "src": "https://graination.ca/wp-content/uploads/2026/06/lomo-classicolor-200-35mm.webp",
-        "thumb": "https://graination.ca/wp-content/uploads/2026/06/lomo-classicolor-200-35mm-200x200.webp",
-        "alt": "Lomography LomoChrome Classicolor 200 35mm Color Negative Film — 36 Exposures"
-      },
-      "summary": "Lomography LomoChrome Classicolor 200 for 35mm cameras, rated ISO 200, developed in C-41.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: ISO 200\n\nExposures: 36 per roll\n\nProcess: C-41",
-      "descriptionHtml": "<p>Lomography LomoChrome Classicolor 200 is an ISO 200 colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Colour rendition stays natural rather than shifted.</p>\n<p>Lomography LomoChrome Classicolor 35mm is a daylight-balanced ISO 200 color negative film designed to deliver natural color reproduction, warm skin tones, and rich detail. Inspired by the classic look of consumer color films, it produces clean, balanced images with a nostalgic analogue character. With 36 exposures per roll and standard C-41 processing, LomoChrome Classicolor is an excellent choice for portraits, travel photography, street photography, and everyday shooting. Its versatile ISO 200 speed performs best in bright daylight and well-lit conditions, producing sharp images with pleasing color rendition.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 200</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41</li>\n</ul>"
-    },
-    {
       "id": 27301,
       "slug": "lomochrome-color-92-sun-kissed-35-mm-iso-400",
       "name": "Lomography LomoChrome Color ’92 Sun-kissed",
@@ -1110,6 +1164,60 @@
       },
       "summary": "Lomography Potsdam Kino 100 for 35mm cameras, rated ISO 100, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 100\n\nPack: single roll, 36 exposures\n\nProcess: B&W\n\nOrigin: cinema-derived emulsion",
       "descriptionHtml": "<p>Lomography Potsdam Kino 100 is an ISO 100 black & white film for 35mm cameras. This listing is a single 36-exposure roll. It is developed in normal black & white chemistry.</p>\n<p>It is a cine emulsion respooled for still cameras.</p>\n<p>Immerse yourself in the timeless beauty of Potsdam Kino B&W 35mm ISO 100 film. This powerful black and white cine film is your artistic tool to freeze life’s most meaningful moments in gorgeous greyscale. Take your poetic license outdoors with the low light sensitivity of ISO 100. The panchromatic emulsion ensures fine grain, while the high density and dynamic range deliver stunning detail in both landscape and portrait photography. Seize the opportunity to create timeless, monochromatic masterpieces with Potsdam Kino B&W 35mm ISO 100 film. Your journey into the world of black and white photography starts here.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 100</li>\n<li><strong>Pack:</strong> single roll, 36 exposures</li>\n<li><strong>Process:</strong> B&W</li>\n<li><strong>Origin:</strong> cinema-derived emulsion</li>\n</ul>"
+    },
+    {
+      "id": 128571,
+      "slug": "lucky-c200-35mm-36-exposure-colour-negative-film",
+      "name": "Lucky C200",
+      "fullName": "Lucky C200 35mm Colour Negative Film — 36 Exposures",
+      "brand": "Lucky Film",
+      "iso": "200",
+      "type": "Color Negative",
+      "process": "C-41",
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 16.99,
+      "regularPrice": 16.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/lucky-c200-35mm-36-exposure-colour-negative-film/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2026/11/lucky-c200-35mm-36-exposure-colour-negative-film.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2026/11/lucky-c200-35mm-36-exposure-colour-negative-film-200x200.webp",
+        "alt": "Lucky C200 ISO 200 35mm colour negative film, 36-exposure single-roll retail box"
+      },
+      "summary": "Lucky C200 is an ISO 200 daylight-balanced colour negative film for 35mm (135) cameras. Develop using the C-41 process. One DX-coded roll with 36 exposures.",
+      "descriptionHtml": "<p>Load Lucky C200 for colour photography with your 35mm (135) camera. Its ISO 200 speed suits daylight shooting, travel and everyday photographs. This daylight-balanced colour negative film uses standard C-41 processing.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm (135)</li>\n<li><strong>Film type:</strong> Colour negative</li>\n<li><strong>Speed:</strong> ISO 200</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n<li><strong>Processing:</strong> C-41</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Cartridge:</strong> DX-coded</li>\n<li><strong>Pack size:</strong> One roll</li>\n</ul>\n<p>For cameras that accept standard 35mm film cartridges. Set ISO manually if your camera does not read DX codes.</p>\n<p>Keep unexposed film cool and dry, away from heat and direct sunlight. Allow refrigerated film to reach room temperature before opening its sealed packaging.</p>"
+    },
+    {
+      "id": 128575,
+      "slug": "lucky-c400-35mm-36-exposure-colour-negative-film",
+      "name": "Lucky C400",
+      "fullName": "Lucky C400 35mm Colour Negative Film — 36 Exposures",
+      "brand": "Lucky Film",
+      "iso": "400",
+      "type": "Color Negative",
+      "process": "C-41",
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 19.99,
+      "regularPrice": 19.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/lucky-c400-35mm-36-exposure-colour-negative-film/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2026/11/lucky-c400-35mm-36-exposure-colour-negative-film.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2026/11/lucky-c400-35mm-36-exposure-colour-negative-film-200x200.webp",
+        "alt": "Lucky C400 ISO 400 35mm colour negative film, 36-exposure single-roll retail box"
+      },
+      "summary": "Lucky C400 is an ISO 400 daylight-balanced colour negative film for 35mm (135) cameras. Develop using the C-41 process. One DX-coded roll with 36 exposures.",
+      "descriptionHtml": "<p>Load Lucky C400 for colour photography with your 35mm (135) camera. Its ISO 400 speed offers more shutter-speed flexibility than ISO 200 film when the light changes. This daylight-balanced colour negative film uses standard C-41 processing.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm (135)</li>\n<li><strong>Film type:</strong> Colour negative</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n<li><strong>Processing:</strong> C-41</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Cartridge:</strong> DX-coded</li>\n<li><strong>Pack size:</strong> One roll</li>\n</ul>\n<p>For cameras that accept standard 35mm film cartridges. Set ISO manually if your camera does not read DX codes.</p>\n<p>Keep unexposed film cool and dry, away from heat and direct sunlight. Allow refrigerated film to reach room temperature before opening its sealed packaging.</p>"
     },
     {
       "id": 36009,
@@ -1245,6 +1353,33 @@
       },
       "summary": "Rollei RPX 400 for 35mm cameras, rated ISO 400, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 400\n\nExposures: 36 per roll\n\nProcess: B&W",
       "descriptionHtml": "<p>Rollei RPX 400 is an ISO 400 black & white film for 35mm cameras. It is developed in normal black & white chemistry.</p>\n<p>The Rollei RPX 400 Black and White Negative Film in 35mm format with 36 exposures is a high-speed ISO 400 film, offering excellent versatility for a wide range of shooting conditions. Ideal for street photography, portraits, and action shots, Rollei RPX 400 delivers strong detail in both highlights and shadows, making it perfect for situations where flexibility and speed are key. The film produces classic black-and-white images with smooth tonal gradation, ensuring that your photos have a timeless, professional look. Developed using standard black-and-white chemistry, Rollei RPX 400 is easy to process at home or in professional labs.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> B&W</li>\n</ul>"
+    },
+    {
+      "id": 36015,
+      "slug": "rollei-superpan-200-black-and-white-negative-film-35mm-roll-film-36-exposures",
+      "name": "Rollei Superpan 200",
+      "fullName": "Rollei Superpan 200 35mm Black & White Film — 36 Exposures",
+      "brand": "Rollei",
+      "iso": "200",
+      "type": "Black & White",
+      "process": null,
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 16.99,
+      "regularPrice": 16.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/rollei-superpan-200-black-and-white-negative-film-35mm-roll-film-36-exposures/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2024/10/rollei-superpan-200-35mm.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2024/10/rollei-superpan-200-35mm-200x200.webp",
+        "alt": "Rollei Superpan 200 35mm Black & White Film — 36 Exposures"
+      },
+      "summary": "Rollei Superpan 200 for 35mm cameras, rated ISO 200, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 200\n\nExposures: 36 per roll\n\nProcess: B&W",
+      "descriptionHtml": "<p>Rollei Superpan 200 is an ISO 200 black & white film for 35mm cameras. It is developed in normal black & white chemistry.</p>\n<p>Its extended red sensitivity gives darker skies and lighter foliage than a normal panchromatic film, and goes further with a red filter.</p>\n<p>The Rollei Superpan 200 Black and White Negative Film in 35mm format with 36 exposures is a medium-speed ISO 200 film that offers superb versatility, making it ideal for a wide range of shooting conditions. Known for its fine grain, sharp detail, and rich tonal range, this film delivers beautifully balanced black-and-white images, whether in bright daylight or low-light environments. Rollei Superpan 200 features extended sensitivity into the near-infrared range, making it an excellent choice for landscape and creative photography. With the ability to use infrared filters, this film offers enhanced contrast and unique image effects, giving photographers greater creative control. Its wide exposure latitude makes it suitable for everything from portraits to architecture, capturing stunning detail in both highlights and shadows. This film is easy to process using standard black-and-white chemistry, making it convenient for both home developers and professional labs. If you’re looking for a versatile, high-quality black-and-white film for your 35mm camera, Rollei Superpan 200 is the perfect choice for your next project.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 200</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> B&W</li>\n</ul>"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:33:05.505Z",
+ "generatedAt": "2026-11-19T22:14:29.766Z",
  "films": {
   "AgfaPhoto APX 100": {
    "fetchedAt": "2026-11-15T22:34:56.559Z",
@@ -362,6 +362,30 @@
    "source": {
     "kind": "search",
     "query": "\"Foma Fomapan 100 Classic\""
+   },
+   "photos": []
+  },
+  "Foma Fomapan 200 Creative": {
+   "fetchedAt": "2026-11-19T22:14:19.051Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Foma Fomapan 200 Creative\""
+   },
+   "photos": []
+  },
+  "Foma Fomapan 400 Action": {
+   "fetchedAt": "2026-11-19T22:14:22.089Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Foma Fomapan 400 Action\""
+   },
+   "photos": []
+  },
+  "Foma Ortho 400": {
+   "fetchedAt": "2026-11-19T22:14:23.648Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Foma Ortho 400\""
    },
    "photos": []
   },
@@ -2817,14 +2841,6 @@
     }
    ]
   },
-  "Lomography LomoChrome Classicolor 200": {
-   "fetchedAt": "2026-11-15T22:40:14.714Z",
-   "source": {
-    "kind": "search",
-    "query": "\"Lomography LomoChrome Classicolor 200\""
-   },
-   "photos": []
-  },
   "Lomography LomoChrome Color ’92 Sun-kissed": {
    "fetchedAt": "2026-11-15T22:40:16.153Z",
    "source": {
@@ -2916,6 +2932,22 @@
      "description": "Nikon F + Lomography Potsdam Kino 100 IE160 ISO, dev 12 min in Rodinal 1+50"
     }
    ]
+  },
+  "Lucky C200": {
+   "fetchedAt": "2026-11-19T22:14:25.149Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lucky C200\""
+   },
+   "photos": []
+  },
+  "Lucky C400": {
+   "fetchedAt": "2026-11-19T22:14:26.615Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Lucky C400\""
+   },
+   "photos": []
   },
   "Rollei Retro 400S": {
    "fetchedAt": "2026-11-15T22:41:07.111Z",
@@ -3527,6 +3559,38 @@
      "license": "CC BY 2.0",
      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
      "description": "Part of the beach at Lighthouse Point park in New Haven Connecticut. Nikon FG-20 Rollei RPX 400 Nikon 28mm f/2.8 Series E"
+    }
+   ]
+  },
+  "Rollei Superpan 200": {
+   "fetchedAt": "2026-11-19T22:14:29.766Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Rollei Superpan 200\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "Ostavljeno - Abandoned - Flickr - filologanoga",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:Ostavljeno_-_Abandoned_-_Flickr_-_filologanoga.jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ostavljeno_-_Abandoned_-_Flickr_-_filologanoga.jpg/960px-Ostavljeno_-_Abandoned_-_Flickr_-_filologanoga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 800,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ostavljeno_-_Abandoned_-_Flickr_-_filologanoga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [
+      "Minolta Autocord"
+     ],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "2026-05-06"
+     ],
+     "device": "Minolta Autocord",
+     "date": "Taken on 6",
+     "author": "Neven Jovanović from Croatia",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "description": "Croatia, Zagreb, May 2026. Minolta Autocord, Rollei Superpan 200, XT-3 (8', stock). Scanned with Olympus OM-D E-M5 II. Edited in darktable. Development details on FilmDev"
     }
    ]
   }
