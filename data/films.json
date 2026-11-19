@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-18T22:04:07.084Z",
+  "updatedAt": "2026-11-19T13:24:23.928Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
   "totalIn35mmCategory": 107,
-  "inStockCount": 47,
+  "inStockCount": 46,
   "films": [
     {
       "id": 34908,
@@ -1110,33 +1110,6 @@
       },
       "summary": "Lomography Potsdam Kino 100 for 35mm cameras, rated ISO 100, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 100\n\nPack: single roll, 36 exposures\n\nProcess: B&W\n\nOrigin: cinema-derived emulsion",
       "descriptionHtml": "<p>Lomography Potsdam Kino 100 is an ISO 100 black & white film for 35mm cameras. This listing is a single 36-exposure roll. It is developed in normal black & white chemistry.</p>\n<p>It is a cine emulsion respooled for still cameras.</p>\n<p>Immerse yourself in the timeless beauty of Potsdam Kino B&W 35mm ISO 100 film. This powerful black and white cine film is your artistic tool to freeze life’s most meaningful moments in gorgeous greyscale. Take your poetic license outdoors with the low light sensitivity of ISO 100. The panchromatic emulsion ensures fine grain, while the high density and dynamic range deliver stunning detail in both landscape and portrait photography. Seize the opportunity to create timeless, monochromatic masterpieces with Potsdam Kino B&W 35mm ISO 100 film. Your journey into the world of black and white photography starts here.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 100</li>\n<li><strong>Pack:</strong> single roll, 36 exposures</li>\n<li><strong>Process:</strong> B&W</li>\n<li><strong>Origin:</strong> cinema-derived emulsion</li>\n</ul>"
-    },
-    {
-      "id": 93044,
-      "slug": "reflx-lab-640t-ahu-35mm-color-film-36exp",
-      "name": "Reflx Lab 640T AHU",
-      "fullName": "Reflx Lab 640T AHU 35mm Color Negative Film — 36 Exposures",
-      "brand": "Reflx Lab",
-      "iso": "640",
-      "type": "Color Negative",
-      "process": null,
-      "format": "35mm",
-      "exposures": 36,
-      "rolls": 1,
-      "price": 19.99,
-      "regularPrice": 19.99,
-      "onSale": false,
-      "currency": "CAD",
-      "lowStock": null,
-      "stockText": "In stock",
-      "url": "https://graination.ca/product/reflx-lab-640t-ahu-35mm-color-film-36exp/",
-      "image": {
-        "src": "https://graination.ca/wp-content/uploads/2026/02/reflx-lab-640t-ahu.webp",
-        "thumb": "https://graination.ca/wp-content/uploads/2026/02/reflx-lab-640t-ahu-200x200.webp",
-        "alt": "Reflx Lab 640T AHU 35mm Color Negative Film — 36 Exposures"
-      },
-      "summary": "Reflx Lab 640T AHU for 35mm cameras, rated ISO 640 (C-41, as marked on the box), developed in C-41 or ECN-2.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: 640 in C-41, which is what the box states; Reflx Lab also publish 500 for the same emulsion in ECN-2\n\nExposures: 36 per roll\n\nProcess: C-41 or ECN-2\n\nColour balance: Tungsten\n\nRemjet: none — anti-halation undercoat instead\n\nOrigin: cinema-derived emulsion\n\nSpeed by process: ECN-2 500 / C-41 640",
-      "descriptionHtml": "<p>Reflx Lab 640T AHU is an ISO 640 (C-41, as marked on the box) tungsten-balanced colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>It can be developed either way, and the speed you shoot it at depends on which: ECN-2 500 / C-41 640. An anti-halation undercoat replaces the remjet layer, so no lab has to strip anything off it.</p>\n<p>High-quality REFLX LAB 640T AHU Color Film – 36 exp delivers rich, cinematic tones with exceptional color accuracy and fine grain. Perfect for filmmakers, analog photographers, and creative pros seeking dynamic contrast and reliable performance in diverse lighting. A top choice for expressive, filmic imagery.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> 640 in C-41, which is what the box states; Reflx Lab also publish 500 for the same emulsion in ECN-2</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41 or ECN-2</li>\n<li><strong>Colour balance:</strong> Tungsten</li>\n<li><strong>Remjet:</strong> none — anti-halation undercoat instead</li>\n<li><strong>Origin:</strong> cinema-derived emulsion</li>\n<li><strong>Speed by process:</strong> ECN-2 500 / C-41 640</li>\n</ul>"
     },
     {
       "id": 36009,
