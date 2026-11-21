@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-19T22:14:17.398Z",
+  "updatedAt": "2026-11-21T19:24:28.499Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
   "totalIn35mmCategory": 109,
-  "inStockCount": 51,
+  "inStockCount": 50,
   "films": [
     {
       "id": 34908,
@@ -1218,33 +1218,6 @@
       },
       "summary": "Lucky C400 is an ISO 400 daylight-balanced colour negative film for 35mm (135) cameras. Develop using the C-41 process. One DX-coded roll with 36 exposures.",
       "descriptionHtml": "<p>Load Lucky C400 for colour photography with your 35mm (135) camera. Its ISO 400 speed offers more shutter-speed flexibility than ISO 200 film when the light changes. This daylight-balanced colour negative film uses standard C-41 processing.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm (135)</li>\n<li><strong>Film type:</strong> Colour negative</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n<li><strong>Processing:</strong> C-41</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Cartridge:</strong> DX-coded</li>\n<li><strong>Pack size:</strong> One roll</li>\n</ul>\n<p>For cameras that accept standard 35mm film cartridges. Set ISO manually if your camera does not read DX codes.</p>\n<p>Keep unexposed film cool and dry, away from heat and direct sunlight. Allow refrigerated film to reach room temperature before opening its sealed packaging.</p>"
-    },
-    {
-      "id": 36009,
-      "slug": "rollei-retro-400s-black-and-white-negative-film-35mm-roll-film-36-exposures",
-      "name": "Rollei Retro 400S",
-      "fullName": "Rollei Retro 400S 35mm Black & White Film — 36 Exposures",
-      "brand": "Rollei",
-      "iso": "400",
-      "type": "Black & White",
-      "process": null,
-      "format": "35mm",
-      "exposures": 36,
-      "rolls": 1,
-      "price": 16.99,
-      "regularPrice": 16.99,
-      "onSale": false,
-      "currency": "CAD",
-      "lowStock": null,
-      "stockText": "In stock",
-      "url": "https://graination.ca/product/rollei-retro-400s-black-and-white-negative-film-35mm-roll-film-36-exposures/",
-      "image": {
-        "src": "https://graination.ca/wp-content/uploads/2024/11/Rollei-Retro-400S-Black-and-White-Negative-Film-35mm-Roll-Film-36-Exposures--scaled.webp",
-        "thumb": "https://graination.ca/wp-content/uploads/2024/11/Rollei-Retro-400S-Black-and-White-Negative-Film-35mm-Roll-Film-36-Exposures--200x200.webp",
-        "alt": "Rollei Retro 400S 35mm black & white film — box front"
-      },
-      "summary": "Rollei Retro 400S for 35mm cameras, rated ISO 400, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 400\n\nExposures: 36 per roll\n\nProcess: B&W",
-      "descriptionHtml": "<p>Rollei Retro 400S is an ISO 400 black & white film for 35mm cameras. It is developed in normal black & white chemistry.</p>\n<p>Its extended red sensitivity gives darker skies and lighter foliage than a normal panchromatic film, and goes further with a red filter.</p>\n<p>The Rollei Retro 400S Black and White Negative Film in 35mm format with 36 exposures is a versatile ISO 400 film that offers high-speed performance, making it perfect for a wide range of shooting conditions, from bright daylight to low-light environments. With fine grain and high contrast, this film delivers sharp detail and smooth tonal gradation, ensuring beautiful monochrome results. Derived from Agfa-Gevaert’s surveillance film, Rollei Retro 400S has enhanced infrared sensitivity, offering increased contrast and definition, especially when used with filters. This film is an excellent choice for landscapes, architecture, and street photography, where its high-speed sensitivity and ability to handle a wide range of lighting conditions come in handy. Whether shooting fast-moving subjects or low-light scenes, Rollei Retro 400S consistently delivers stunning black-and-white images. Developed using standard black-and-white chemistry, this film is easy to process at home or in professional labs. For photographers looking for a reliable high-speed black-and-white film that excels in a variety of situations, Rollei Retro 400S is the perfect choice.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> B&W</li>\n</ul>"
     },
     {
       "id": 36003,
