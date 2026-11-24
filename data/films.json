@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T19:24:28.499Z",
+  "updatedAt": "2026-11-24T23:04:09.783Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
   "totalIn35mmCategory": 109,
-  "inStockCount": 50,
+  "inStockCount": 49,
   "films": [
     {
       "id": 34908,
@@ -840,33 +840,6 @@
       },
       "summary": "Kodak Kodacolor 200 for 35mm cameras, rated ISO 200, developed in C-41.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: ISO 200\n\nExposures: 36 per roll\n\nPack: Single roll\n\nProcess: C-41\n\nColour balance: Daylight",
       "descriptionHtml": "<p>Kodak Kodacolor 200 is an ISO 200 daylight-balanced colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Kodak Kodacolor 200 35mm Color Negative Film is a reliable and easy-to-use ISO 200 film designed for photographers who want vibrant color, fine grain, and excellent sharpness. This 35mm film roll includes 36 exposures and performs especially well in daylight and bright indoor conditions. Kodacolor 200 delivers classic Kodak color reproduction with balanced skin tones, natural contrast, and wide exposure latitude. Its ISO 200 sensitivity makes it suitable for portraits, travel photography, landscapes, street photography, and everyday use. This Kodak 35mm color film is compatible with standard C-41 processing, making it convenient for both home developing and lab processing. Whether you are new to film photography or an experienced shooter, Kodak Kodacolor 200 offers dependable results with a timeless analog look.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 200</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> C-41</li>\n<li><strong>Colour balance:</strong> Daylight</li>\n</ul>"
-    },
-    {
-      "id": 72422,
-      "slug": "kodak-professional-ektachrome-e100-color-transparency-film-35mm-roll-film-36-exposures",
-      "name": "Kodak Professional Ektachrome E100",
-      "fullName": "Kodak Professional Ektachrome E100 35mm Color Slide Film — 36 Exposures",
-      "brand": "Kodak",
-      "iso": "100",
-      "type": "Color Slide (E-6)",
-      "process": null,
-      "format": "35mm",
-      "exposures": 36,
-      "rolls": 1,
-      "price": 41.99,
-      "regularPrice": 41.99,
-      "onSale": false,
-      "currency": "CAD",
-      "lowStock": null,
-      "stockText": "In stock",
-      "url": "https://graination.ca/product/kodak-professional-ektachrome-e100-color-transparency-film-35mm-roll-film-36-exposures/",
-      "image": {
-        "src": "https://graination.ca/wp-content/uploads/2025/08/Kodak-Ektachrome-E100-Film-Carton.webp",
-        "thumb": "https://graination.ca/wp-content/uploads/2025/08/Kodak-Ektachrome-E100-Film-Carton-200x200.webp",
-        "alt": "Kodak Professional Ektachrome E100 35mm Color Slide Film — 36 Exposures"
-      },
-      "summary": "Kodak Professional Ektachrome E100 for 35mm cameras, rated ISO 100, developed in E-6.\n\nFormat: 35mm\n\nFilm type: Color Slide (E-6)\n\nSpeed: ISO 100\n\nExposures: 36 per roll\n\nProcess: E-6",
-      "descriptionHtml": "<p>Kodak Professional Ektachrome E100 is an ISO 100 colour slide film for 35mm cameras. It is developed in E-6 slide chemistry.</p>\n<p>The T-GRAIN emulsion keeps grain tight and scans cleanly. It returns positive transparencies, not negatives.</p>\n<p>Capture vivid moments with Kodak Ektachrome E100 , a professional-grade 35mm color slide film that delivers vibrant, true-to-life color. Perfect for photographers who want sharp detail and smooth tones, this color reversal film excels in daylight conditions and controlled lighting. Ektachrome E100 produces fine grain with rich saturation, making it ideal for landscape, portrait, and travel photography. The film offers neutral tone scale and clean whites, ensuring your photos have stunning clarity without the digital look. It features an ISO of 100, giving you excellent control in bright environments while preserving depth and texture. Because it’s a daylight-balanced film , you get accurate color reproduction without needing excessive color correction. Its dynamic range lets you retain both shadow and highlight detail, giving your images a timeless, professional finish. Engineered for high-resolution output, Kodak Ektachrome E100 works beautifully with modern film scanners, preserving the beauty of analog in a digital workflow. It’s a trusted choice for professionals and film enthusiasts alike who value authenticity and precision in every frame.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Slide (E-6)</li>\n<li><strong>Speed:</strong> ISO 100</li>\n<li><strong>Exposures:</strong> 36 per roll</li>\n<li><strong>Process:</strong> E-6</li>\n</ul>"
     },
     {
       "id": 8775,

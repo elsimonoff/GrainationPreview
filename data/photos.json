@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T04:00:10.380Z",
+ "generatedAt": "2026-11-24T23:04:09.857Z",
  "films": {
   "AgfaPhoto APX 100": {
    "fetchedAt": "2026-11-23T03:53:07.416Z",
@@ -1940,36 +1940,6 @@
      "license": "CC BY-SA 4.0",
      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
      "description": "Camels at Fateh Sagar. The backlighting is the sunset. The user has wound a normal 35mm roll of Kodacolor 200 by himself to a redscale film. Since the sensitivity of the film decreases when redscaled, it is overexposed. (Exposed at ISO 100 of Lomo LC-A+ camera.) The image flipped"
-    }
-   ]
-  },
-  "Kodak Professional Ektachrome E100": {
-   "fetchedAt": "2026-11-23T03:58:04.532Z",
-   "source": {
-    "kind": "search",
-    "query": "\"Kodak Ektachrome E100\""
-   },
-   "photos": [
-    {
-     "site": "Wikimedia Commons",
-     "title": "Texas Pride Barbecue, Adkins, Texas (2024) - Flickr - coolanimeboy25",
-     "pageUrl": "https://commons.wikimedia.org/wiki/File:Texas_Pride_Barbecue,_Adkins,_Texas_(2024)_-_Flickr_-_coolanimeboy25.jpg",
-     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Texas_Pride_Barbecue%2C_Adkins%2C_Texas_%282024%29_-_Flickr_-_coolanimeboy25.jpg/960px-Texas_Pride_Barbecue%2C_Adkins%2C_Texas_%282024%29_-_Flickr_-_coolanimeboy25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "width": 800,
-     "height": 511,
-     "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Texas_Pride_Barbecue%2C_Adkins%2C_Texas_%282024%29_-_Flickr_-_coolanimeboy25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "cameras": [],
-     "lenses": [],
-     "format": null,
-     "films": [
-      "2024-09-08"
-     ],
-     "device": null,
-     "date": "Taken on 8",
-     "author": "coolanimeboy25",
-     "license": "CC BY 4.0",
-     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-     "description": "Texas Pride Barbecue is known for having vintage items inside the restaurant and it hosts live music. This is the front view of the restaurant. Camera: Canon F-1 Film: Kodak Ektachrome E100"
     }
    ]
   },
