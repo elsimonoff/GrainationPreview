@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T11:00:25.093Z",
+  "updatedAt": "2026-11-26T20:14:09.396Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
   "totalIn35mmCategory": 109,
-  "inStockCount": 48,
+  "inStockCount": 49,
   "films": [
     {
       "id": 34908,
@@ -327,6 +327,33 @@
       },
       "summary": "ILFORD FP4 Plus 125 for 35mm cameras, rated ISO 125, developed in B&W.\n\nFormat: 35mm\n\nFilm type: Black & White\n\nSpeed: ISO 125\n\nPack: single roll, 36 exposures\n\nProcess: B&W",
       "descriptionHtml": "<p>ILFORD FP4 Plus 125 is an ISO 125 black & white film for 35mm cameras. This listing is a single 36-exposure roll. It is developed in normal black & white chemistry.</p>\n<p>Grain is fine and detail holds up well when the negative is scanned or enlarged.</p>\n<p>Ilford FP4 PLUS is a versatile, medium-speed black and white film offering exceptional sharpness and fine grain quality. It boasts an ISO 125 rating and an impressive exposure latitude, allowing it to be push or pull-processed with ease. This film is perfect for capturing detailed subjects in various lighting conditions, making it ideal for portraits, fashion, street, landscape, and architectural photography. Its robust exposure tolerance and compatibility with a wide range of developers make FP4 PLUS a top choice for photographers who appreciate the classic black and white aesthetic.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Black & White</li>\n<li><strong>Speed:</strong> ISO 125</li>\n<li><strong>Pack:</strong> single roll, 36 exposures</li>\n<li><strong>Process:</strong> B&W</li>\n</ul>"
+    },
+    {
+      "id": 4629,
+      "slug": "ilford-hp5-plus-black-and-white-negative-film-35mm-roll-film-36-exposures",
+      "name": "Ilford HP5 Plus 400",
+      "fullName": "Ilford HP5 Plus 400 35mm Black and White Film — 36 Exposures",
+      "brand": "Ilford",
+      "iso": "400",
+      "type": "Black & White",
+      "process": "B&W",
+      "format": "35mm",
+      "exposures": 36,
+      "rolls": 1,
+      "price": 15.99,
+      "regularPrice": 15.99,
+      "onSale": false,
+      "currency": "CAD",
+      "lowStock": null,
+      "stockText": "In stock",
+      "url": "https://graination.ca/product/ilford-hp5-plus-black-and-white-negative-film-35mm-roll-film-36-exposures/",
+      "image": {
+        "src": "https://graination.ca/wp-content/uploads/2026/10/ilford-hp5-plus-400-35mm-black-white-film-36-exposures.webp",
+        "thumb": "https://graination.ca/wp-content/uploads/2026/10/ilford-hp5-plus-400-35mm-black-white-film-36-exposures-200x200.webp",
+        "alt": "Ilford HP5 Plus 400 black and white 35mm film box, one roll with 36 exposures"
+      },
+      "summary": "One 36-exposure roll of ISO 400 black and white negative film. Fine grain, medium contrast, wide exposure latitude and a DX-coded 35mm cassette.",
+      "descriptionHtml": "<h4>Versatile ISO 400 black and white film</h4>\n<p>Ilford HP5 Plus is a panchromatic black and white negative film with medium contrast, fine grain and wide exposure latitude. It suits documentary work, portraits, travel and available-light photography.</p>\n<p>This is one 36-exposure roll of 35mm film in a DX-coded cassette. HP5 Plus can be push-processed up to EI 3200 with the appropriate development adjustment.</p>\n<h4>Specifications</h4>\n<ul>\n<li>35mm / 135 format</li>\n<li>ISO 400</li>\n<li>One roll, 36 exposures</li>\n<li>DX-coded cassette</li>\n<li>Standard black and white processing</li>\n</ul>\n<p>Use traditional black and white film chemistry. Developing and scanning are sold separately.</p>"
     },
     {
       "id": 10106,

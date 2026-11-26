@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T11:00:25.166Z",
+ "generatedAt": "2026-11-26T20:23:07.653Z",
  "films": {
   "AgfaPhoto APX 100": {
    "fetchedAt": "2026-11-23T03:53:07.416Z",
@@ -674,6 +674,36 @@
      "license": "CC BY-SA 4.0",
      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
      "description": "Zwart-witfoto van de begroeiing van de Slachtedijk in mei met bloeiende pinksterbloemen. De foto is genomen ter hoogte van windmolenpark de Bjirmen. Op de dijk staat een ligfiets, een Sinner Demon 16/20 Camera: Zenit 3M Film: Ilford FP4 plus 125 ISO"
+    }
+   ]
+  },
+  "Ilford HP5 Plus 400": {
+   "fetchedAt": "2026-11-26T20:23:07.653Z",
+   "source": {
+    "kind": "search",
+    "query": "\"Ilford HP5 Plus 400\""
+   },
+   "photos": [
+    {
+     "site": "Wikimedia Commons",
+     "title": "SHAKA...EXPIRED 35MM FILM (EXPLORE, 10-01-2025). - Flickr - Salty Lens (Jonny)",
+     "pageUrl": "https://commons.wikimedia.org/wiki/File:SHAKA...EXPIRED_35MM_FILM_(EXPLORE,_10-01-2025)._-_Flickr_-_Salty_Lens_(Jonny).jpg",
+     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/SHAKA...EXPIRED_35MM_FILM_%28EXPLORE%2C_10-01-2025%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg/960px-SHAKA...EXPIRED_35MM_FILM_%28EXPLORE%2C_10-01-2025%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "width": 800,
+     "height": 530,
+     "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/SHAKA...EXPIRED_35MM_FILM_%28EXPLORE%2C_10-01-2025%29._-_Flickr_-_Salty_Lens_%28Jonny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "cameras": [],
+     "lenses": [],
+     "format": null,
+     "films": [
+      "expired film"
+     ],
+     "device": "NORITSU KOKI EZ Controller",
+     "date": "Taken on 1",
+     "author": "Salty Lens (Jonny)",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "description": "Waikiki, Oahu, Hawai'i Wahine paddling out for her heat and waving 'shaka'. Longboarder captured on expired 35mm film from 12/2014. Nikonos V | Nikonos 35mm f/2.5 | Ilford HP5 Plus 400 @ ISO 800"
     }
    ]
   },
