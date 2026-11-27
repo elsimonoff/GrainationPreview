@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T20:23:07.653Z",
+ "generatedAt": "2026-11-27T02:56:46.604Z",
  "films": {
   "AgfaPhoto APX 100": {
    "fetchedAt": "2026-11-23T03:53:07.416Z",
@@ -366,7 +366,7 @@
    "photos": []
   },
   "Foma Fomapan 200 Creative": {
-   "fetchedAt": "2026-11-19T22:14:19.051Z",
+   "fetchedAt": "2026-11-27T02:56:35.963Z",
    "source": {
     "kind": "search",
     "query": "\"Foma Fomapan 200 Creative\""
@@ -374,7 +374,7 @@
    "photos": []
   },
   "Foma Fomapan 400 Action": {
-   "fetchedAt": "2026-11-19T22:14:22.089Z",
+   "fetchedAt": "2026-11-27T02:56:38.975Z",
    "source": {
     "kind": "search",
     "query": "\"Foma Fomapan 400 Action\""
@@ -382,7 +382,7 @@
    "photos": []
   },
   "Foma Ortho 400": {
-   "fetchedAt": "2026-11-19T22:14:23.648Z",
+   "fetchedAt": "2026-11-27T02:56:40.556Z",
    "source": {
     "kind": "search",
     "query": "\"Foma Ortho 400\""
@@ -2811,14 +2811,6 @@
     }
    ]
   },
-  "Lomography LomoChrome Color ’92 Sun-kissed": {
-   "fetchedAt": "2026-11-23T03:59:08.624Z",
-   "source": {
-    "kind": "search",
-    "query": "\"Lomography LomoChrome Color ’92 Sun-kissed\""
-   },
-   "photos": []
-  },
   "Lomography MonoChrome Duet": {
    "fetchedAt": "2026-11-23T03:59:10.149Z",
    "source": {
@@ -2904,7 +2896,7 @@
    ]
   },
   "Lucky C200": {
-   "fetchedAt": "2026-11-19T22:14:25.149Z",
+   "fetchedAt": "2026-11-27T02:56:42.014Z",
    "source": {
     "kind": "search",
     "query": "\"Lucky C200\""
@@ -2912,7 +2904,7 @@
    "photos": []
   },
   "Lucky C400": {
-   "fetchedAt": "2026-11-19T22:14:26.615Z",
+   "fetchedAt": "2026-11-27T02:56:43.547Z",
    "source": {
     "kind": "search",
     "query": "\"Lucky C400\""
@@ -3294,7 +3286,7 @@
    ]
   },
   "Rollei Superpan 200": {
-   "fetchedAt": "2026-11-19T22:14:29.766Z",
+   "fetchedAt": "2026-11-27T02:56:46.604Z",
    "source": {
     "kind": "search",
     "query": "\"Rollei Superpan 200\""

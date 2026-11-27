@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T20:14:09.396Z",
+  "updatedAt": "2026-11-27T02:56:34.241Z",
   "source": "https://graination.ca/product-category/film/35mm-film/",
   "totalIn35mmCategory": 109,
-  "inStockCount": 49,
+  "inStockCount": 48,
   "films": [
     {
       "id": 34908,
@@ -1056,33 +1056,6 @@
       },
       "summary": "Lomography Color Negative 400 for 35mm cameras, rated ISO 400, developed in C-41.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: ISO 400\n\nPack: 3 rolls, 36 exposures each\n\nProcess: C-41\n\nDX code: yes",
       "descriptionHtml": "<p>Lomography Color Negative 400 is an ISO 400 colour negative film for 35mm cameras. This listing is a pack of 3 rolls, 36 exposures each. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>Discover the magic of Lomography Color Negative 35mm ISO 400 film, a pack of 3 delivering dazzling colors and stunning sharpness. This is your favorite color negative, come rain or shine, offering unbeatable versatility. With a medium light sensitivity of ISO 400, Lomo Color Negative ensures vibrant hues and fine grain. This pack of 3 films is your ticket to a world of creative possibilities.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Pack:</strong> 3 rolls, 36 exposures each</li>\n<li><strong>Process:</strong> C-41</li>\n<li><strong>DX code:</strong> yes</li>\n</ul>"
-    },
-    {
-      "id": 27301,
-      "slug": "lomochrome-color-92-sun-kissed-35-mm-iso-400",
-      "name": "Lomography LomoChrome Color ’92 Sun-kissed",
-      "fullName": "Lomography LomoChrome Color ’92 Sun-kissed 35mm Color Negative Film",
-      "brand": "Lomography",
-      "iso": "400",
-      "type": "Color Negative",
-      "process": null,
-      "format": "35mm",
-      "exposures": null,
-      "rolls": 1,
-      "price": 18.99,
-      "regularPrice": 18.99,
-      "onSale": false,
-      "currency": "CAD",
-      "lowStock": null,
-      "stockText": "In stock",
-      "url": "https://graination.ca/product/lomochrome-color-92-sun-kissed-35-mm-iso-400/",
-      "image": {
-        "src": "https://graination.ca/wp-content/uploads/2024/08/lomo-color92-sunkissed-35mm.webp",
-        "thumb": "https://graination.ca/wp-content/uploads/2024/08/lomo-color92-sunkissed-35mm-200x200.webp",
-        "alt": "Lomography LomoChrome Color ’92 Sun-kissed 35mm Color Negative Film"
-      },
-      "summary": "Lomography LomoChrome Color ’92 Sun-kissed for 35mm cameras, rated ISO 400, developed in C-41.\n\nFormat: 35mm\n\nFilm type: Color Negative\n\nSpeed: ISO 400\n\nProcess: C-41",
-      "descriptionHtml": "<p>Lomography LomoChrome Color ’92 Sun-kissed is an ISO 400 colour negative film for 35mm cameras. It is developed in standard C-41 colour chemistry, which is what most labs — including ours — run every day.</p>\n<p>The ’92 emulsion leans on 1990s consumer-colour character: warm skin, visible grain, slightly loose contrast.</p>\n<p>The LomoChrome Color ’92 Sun-kissed 35 mm ISO 400 film is perfect for photographers looking to infuse their images with a touch of vintage charm. This film stands out with its ability to produce striking, sun-kissed tones, making it ideal for capturing summer moments, beach scenes, and outdoor adventures. This uniquely formulated film delivers vibrant, warm, and retro-inspired photos that transport you back to the golden era of analog photography. Its exceptional color rendition and nostalgic feel make it a favorite among analog enthusiasts looking to add a touch of vintage flair to their photography.</p>\n<h4>Specifications</h4>\n<ul>\n<li><strong>Format:</strong> 35mm</li>\n<li><strong>Film type:</strong> Color Negative</li>\n<li><strong>Speed:</strong> ISO 400</li>\n<li><strong>Process:</strong> C-41</li>\n</ul>"
     },
     {
       "id": 15410,
